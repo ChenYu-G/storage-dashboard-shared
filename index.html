@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Bin Storage Dashboard</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="styles.css" />
+	</head>
+	<body>
+		<div class="wrap">
+			<header class="page">
+				<div>
+					<h1>Bin Storage Dashboard</h1>
+					<p>
+						Upload a bin detail export. Rows are grouped by Storage Bin +
+						Material + Batch and counted as pallets. Each bin's pallet count is
+						compared against its capacity.
+					</p>
+					<div class="status-line">
+						<span class="dot" id="statusDot"></span
+						><span id="statusText">Checking storage…</span>
+					</div>
+				</div>
+				<div class="stat-row" id="statRow" style="display: none">
+					<div class="stat">
+						<div class="n" id="statBins">—</div>
+						<div class="l">Bins</div>
+					</div>
+					<div class="stat">
+						<div class="n" id="statLines">—</div>
+						<div class="l">Material/Batch lines</div>
+					</div>
+					<div class="stat">
+						<div class="n" id="statOver">—</div>
+						<div class="l">Over capacity</div>
+					</div>
+				</div>
+			</header>
+			<div class="layout">
+				<div class="panel" id="githubPanel">
+					<h2>Cloud sync (GitHub)</h2>
+					<div class="field">
+						<label>Repository (owner/name)</label
+						><input type="text" id="ghRepo" placeholder="yourname/bin-dashboard-data" />
+					</div>
+					<div class="field">
+						<label>Branch</label
+						><input type="text" id="ghBranch" placeholder="main" />
+					</div>
+					<div class="field">
+						<label>File path</label
+						><input type="text" id="ghPath" placeholder="dataset.json" />
+					</div>
+					<div class="field">
+						<label>Personal access token</label
+						><input type="password" id="ghToken" placeholder="github_pat_… or ghp_…" />
+					</div>
+					<button class="btn" id="ghConnectBtn">Save &amp; connect</button>
+					<button class="btn secondary" id="ghDisconnectBtn" style="margin-top: 8px; width: 100%">
+						Disconnect (use this browser only)
+					</button>
+					<div class="hint" id="ghHint">
+						Create a fine-grained personal access token scoped to just this
+						repo's "Contents: Read and write" permission. The token is stored
+						only in this browser's local storage and sent only to
+						api.github.com — never to anyone else. Use a private repo.
+					</div>
+				</div>
+				<div class="panel">
+					<h2>1. Upload Excel</h2>
+					<div class="drop" id="dropZone">
+						<div class="ic">⇪</div>
+						<div class="t1">Click to choose a file, or drag it here</div>
+						<div class="t2">.xlsx / .xls supported</div>
+						<input type="file" id="fileInput" accept=".xlsx,.xls,.xlsm" />
+					</div>
+					<div class="filename" id="fileName"></div>
+					<div class="sheet-tabs" id="sheetTabs"></div>
+					<div id="mappingBlock" style="display: none">
+						<h2 style="margin-top: 22px">2. Map columns</h2>
+						<div class="field">
+							<label>Storage Bin</label
+							><select id="colBin"></select>
+						</div>
+						<div class="field">
+							<label>Material</label
+							><select id="colMaterial"></select>
+						</div>
+						<div class="field">
+							<label>Batch</label
+							><select id="colBatch"></select>
+						</div>
+						<h2 style="margin-top: 22px">3. Bin capacity</h2>
+						<div class="field">
+							<label>Max pallets per bin</label
+							><input type="number" id="capacity" value="32" min="1" />
+						</div>
+						<button class="btn" id="processBtn">Generate dashboard</button>
+					</div>
+					<div class="hint" id="parseHint"></div>
+				</div>
+				<div id="resultsArea">
+					<div class="empty" id="emptyState">
+						<div class="ic">▦</div>
+						<div class="t1">No data yet</div>
+						<div class="t2">
+							Upload an Excel file with bin, material and batch columns, map
+							them, then generate the dashboard.
+						</div>
+					</div>
+					<div id="resultsHead" style="display: none">
+						<div class="results-head-top">
+							<h2 id="resultsTitle">Bin detail</h2>
+							<div class="results-actions">
+								<button class="btn secondary" id="exportBtn">Export CSV</button>
+							</div>
+						</div>
+						<div class="filter-panel">
+							<div class="search-grid">
+								<input type="text" id="searchMaterial" placeholder="Material" />
+								<input type="text" id="searchBatch" placeholder="Batch" />
+								<input type="text" id="searchBin" placeholder="Bin location" />
+							</div>
+							<label class="checkbox-row"
+								><input type="checkbox" id="onlyAvailable" /> Only show bins
+								with remaining capacity</label
+							>
+							<div class="search-note" id="searchNote"></div>
+						</div>
+					</div>
+					<div id="resultsList"></div>
+				</div>
+			</div>
+			<footer class="note" id="footerNote">
+				Excel parsing happens locally in your browser. If you connect a GitHub
+				repo above, the dashboard data itself is committed to a JSON file in
+				that repo, so any device with the same repo + token stays in sync
+				(polling every 10s). Without a GitHub connection, data is saved to
+				this browser only.
+			</footer>
+		</div>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+		<script src="app.js"></script>
+	</body>
+</html>
