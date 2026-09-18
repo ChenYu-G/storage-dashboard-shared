@@ -123,13 +123,13 @@
       "bin": "S3A-01-09",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "123␟123",
+          "material": "123",
+          "batch": "123",
+          "palletCount": 123
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 123
     },
     {
       "id": "S3A-01-10_2c219530",
@@ -13982,5 +13982,5 @@
       "totalPallets": 3
     }
   ],
-  "updatedAt": "2026-09-18T19:41:14.864Z"
+  "updatedAt": "2026-09-18T19:41:35.498Z"
 }
