@@ -48,10 +48,10 @@
           "key": "123␟123",
           "material": "123",
           "batch": "123",
-          "palletCount": 33
+          "palletCount": 23
         }
       ],
-      "totalPallets": 33
+      "totalPallets": 23
     },
     {
       "id": "S3A-01-04_3623e385",
@@ -13982,5 +13982,5 @@
       "totalPallets": 3
     }
   ],
-  "updatedAt": "2026-09-18T19:43:33.631Z"
+  "updatedAt": "2026-09-18T19:43:44.714Z"
 }
