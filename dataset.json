@@ -1,6 +1,6 @@
 {
   "capacity": 32,
-  "fileName": "lx03_0917.XLSX",
+  "fileName": "lx03 0917.XLSX",
   "bins": [
     {
       "id": "S3A-01-01_3123dba6",
@@ -10,13 +10,13 @@
           "key": "11010753␟47W2680305",
           "material": "11010753",
           "batch": "47W2680305",
-          "palletCount": 26
+          "palletCount": 8
         },
         {
           "key": "11012233␟F062641803",
           "material": "11012233",
           "batch": "F062641803",
-          "palletCount": 8
+          "palletCount": 4
         },
         {
           "key": "11011647␟F312670802",
@@ -25,7 +25,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 36
+      "totalPallets": 14
     },
     {
       "id": "S3A-01-02_3023da13",
@@ -35,23 +35,23 @@
           "key": "11011895␟47W2680402",
           "material": "11011895",
           "batch": "47W2680402",
-          "palletCount": 28
+          "palletCount": 16
         }
       ],
-      "totalPallets": 28
+      "totalPallets": 16
     },
     {
       "id": "S3A-01-03_2f23d880",
       "bin": "S3A-01-03",
       "lines": [
         {
-          "key": "123␟123",
-          "material": "123",
-          "batch": "123",
-          "palletCount": 23
+          "key": "<<empty>>␟",
+          "material": "<<empty>>",
+          "batch": "",
+          "palletCount": 0
         }
       ],
-      "totalPallets": 23
+      "totalPallets": 0
     },
     {
       "id": "S3A-01-04_3623e385",
@@ -123,13 +123,13 @@
       "bin": "S3A-01-09",
       "lines": [
         {
-          "key": "123␟123",
-          "material": "123",
-          "batch": "123",
-          "palletCount": 123
+          "key": "<<empty>>␟",
+          "material": "<<empty>>",
+          "batch": "",
+          "palletCount": 0
         }
       ],
-      "totalPallets": 123
+      "totalPallets": 0
     },
     {
       "id": "S3A-01-10_2c219530",
@@ -13982,5 +13982,5 @@
       "totalPallets": 3
     }
   ],
-  "updatedAt": "2026-09-18T19:46:40.040Z"
+  "updatedAt": "2026-09-18T19:47:59.861Z"
 }
