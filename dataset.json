@@ -10,7 +10,7 @@
           "key": "11010753␟47W2680305",
           "material": "11010753",
           "batch": "47W2680305",
-          "palletCount": 26
+          "palletCount": 8
         },
         {
           "key": "11012233␟F062641803",
@@ -25,7 +25,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 14
     },
     {
       "id": "S3A-01-02_3023da13",
@@ -45,13 +45,13 @@
       "bin": "S3A-01-03",
       "lines": [
         {
-          "key": "11017744␟47w123456",
-          "material": "11017744",
-          "batch": "47w123456",
-          "palletCount": 8
+          "key": "<<empty>>␟",
+          "material": "<<empty>>",
+          "batch": "",
+          "palletCount": 0
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 0
     },
     {
       "id": "S3A-01-04_3623e385",
@@ -13982,5 +13982,5 @@
       "totalPallets": 3
     }
   ],
-  "updatedAt": "2026-09-18T19:57:24.344Z"
+  "updatedAt": "2026-09-21T18:05:12.517Z"
 }
