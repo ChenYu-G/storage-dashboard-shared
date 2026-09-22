@@ -1,32 +1,7 @@
 {
   "capacity": 32,
-  "fileName": "lx03 0917.XLSX",
+  "fileName": "LX03-09-22-26.XLSX",
   "bins": [
-    {
-      "id": "S3A-01-01_3123dba6",
-      "bin": "S3A-01-01",
-      "lines": [
-        {
-          "key": "11010753␟47W2680305",
-          "material": "11010753",
-          "batch": "47W2680305",
-          "palletCount": 12
-        },
-        {
-          "key": "11012233␟F062641803",
-          "material": "11012233",
-          "batch": "F062641803",
-          "palletCount": 4
-        },
-        {
-          "key": "11011647␟F312670802",
-          "material": "11011647",
-          "batch": "F312670802",
-          "palletCount": 2
-        }
-      ],
-      "totalPallets": 18
-    },
     {
       "id": "S3A-01-02_3023da13",
       "bin": "S3A-01-02",
@@ -39,97 +14,6 @@
         }
       ],
       "totalPallets": 16
-    },
-    {
-      "id": "S3A-01-03_2f23d880",
-      "bin": "S3A-01-03",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-01-04_3623e385",
-      "bin": "S3A-01-04",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-01-05_3523e1f2",
-      "bin": "S3A-01-05",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-01-06_3423e05f",
-      "bin": "S3A-01-06",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-01-07_3323decc",
-      "bin": "S3A-01-07",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-01-08_3a23e9d1",
-      "bin": "S3A-01-08",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-01-09_3923e83e",
-      "bin": "S3A-01-09",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3A-01-10_2c219530",
@@ -149,46 +33,34 @@
       "bin": "S3A-01-11",
       "lines": [
         {
-          "key": "11010753␟F252672401",
-          "material": "11010753",
-          "batch": "F252672401",
-          "palletCount": 6
+          "key": "11011647␟F232671002",
+          "material": "11011647",
+          "batch": "F232671002",
+          "palletCount": 1
         },
         {
-          "key": "11007744␟F232670704",
-          "material": "11007744",
-          "batch": "F232670704",
-          "palletCount": 7
-        },
-        {
-          "key": "11010753␟F232670203",
-          "material": "11010753",
-          "batch": "F232670203",
+          "key": "11011647␟F312670802",
+          "material": "11011647",
+          "batch": "F312670802",
           "palletCount": 1
         }
       ],
-      "totalPallets": 14
+      "totalPallets": 2
     },
     {
       "id": "S3A-01-12_2e219856",
       "bin": "S3A-01-12",
       "lines": [
         {
-          "key": "11011647␟F232670806",
-          "material": "11011647",
-          "batch": "F232670806",
-          "palletCount": 2
-        },
-        {
-          "key": "11005963␟F232672301",
-          "material": "11005963",
-          "batch": "F232672301",
-          "palletCount": 1
-        },
-        {
           "key": "11010753␟F232670807",
           "material": "11010753",
           "batch": "F232670807",
+          "palletCount": 1
+        },
+        {
+          "key": "11011478␟47W2681006",
+          "material": "11011478",
+          "batch": "47W2681006",
           "palletCount": 1
         },
         {
@@ -198,94 +70,51 @@
           "palletCount": 1
         },
         {
+          "key": "11011895␟47W2680404",
+          "material": "11011895",
+          "batch": "47W2680404",
+          "palletCount": 1
+        },
+        {
           "key": "11012425␟47W2681101",
           "material": "11012425",
           "batch": "47W2681101",
           "palletCount": 1
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 5
     },
     {
       "id": "S3A-01-13_2f2199e9",
       "bin": "S3A-01-13",
       "lines": [
         {
-          "key": "11011647␟F232670206",
-          "material": "11011647",
-          "batch": "F232670206",
-          "palletCount": 4
-        },
-        {
-          "key": "11011647␟F232671404",
-          "material": "11011647",
-          "batch": "F232671404",
-          "palletCount": 4
-        },
-        {
-          "key": "11011647␟F232671002",
-          "material": "11011647",
-          "batch": "F232671002",
-          "palletCount": 3
-        }
-      ],
-      "totalPallets": 11
-    },
-    {
-      "id": "S3A-01-14_30219b7c",
-      "bin": "S3A-01-14",
-      "lines": [
-        {
-          "key": "11010753␟F252672902",
+          "key": "11010753␟47W2672902",
           "material": "11010753",
-          "batch": "F252672902",
-          "palletCount": 2
-        },
-        {
-          "key": "11005963␟F232672301",
-          "material": "11005963",
-          "batch": "F232672301",
-          "palletCount": 1
-        },
-        {
-          "key": "11007744␟F232671402",
-          "material": "11007744",
-          "batch": "F232671402",
-          "palletCount": 1
-        },
-        {
-          "key": "11010753␟F252670803",
-          "material": "11010753",
-          "batch": "F252670803",
+          "batch": "47W2672902",
           "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 1
     },
     {
       "id": "S3A-01-15_31219d0f",
       "bin": "S3A-01-15",
       "lines": [
         {
-          "key": "11011647␟F232670702",
+          "key": "11011647␟F312670802",
           "material": "11011647",
-          "batch": "F232670702",
-          "palletCount": 2
+          "batch": "F312670802",
+          "palletCount": 1
         },
         {
-          "key": "11011647␟F232670810",
-          "material": "11011647",
-          "batch": "F232670810",
-          "palletCount": 2
-        },
-        {
-          "key": "11010753␟F062660201",
-          "material": "11010753",
-          "batch": "F062660201",
+          "key": "11011895␟47W2681103",
+          "material": "11011895",
+          "batch": "47W2681103",
           "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 2
     },
     {
       "id": "S3A-01-16_32219ea2",
@@ -302,9 +131,15 @@
           "material": "11011647",
           "batch": "F232670211",
           "palletCount": 2
+        },
+        {
+          "key": "11011647␟F232671401",
+          "material": "11011647",
+          "batch": "F232671401",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 7
     },
     {
       "id": "S3A-01-17_3321a035",
@@ -317,24 +152,24 @@
           "palletCount": 3
         },
         {
+          "key": "11005963␟F232673010",
+          "material": "11005963",
+          "batch": "F232673010",
+          "palletCount": 2
+        },
+        {
           "key": "11011647␟F232670802",
           "material": "11011647",
           "batch": "F232670802",
           "palletCount": 1
         }
       ],
-      "totalPallets": 4
+      "totalPallets": 6
     },
     {
       "id": "S3A-01-18_3421a1c8",
       "bin": "S3A-01-18",
       "lines": [
-        {
-          "key": "11005963␟F232671001",
-          "material": "11005963",
-          "batch": "F232671001",
-          "palletCount": 2
-        },
         {
           "key": "11005963␟F232672003",
           "material": "11005963",
@@ -354,7 +189,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 3
     },
     {
       "id": "S3A-01-19_3521a35b",
@@ -373,22 +208,16 @@
           "palletCount": 4
         },
         {
+          "key": "11007744␟F232672901",
+          "material": "11007744",
+          "batch": "F232672901",
+          "palletCount": 2
+        },
+        {
           "key": "11007744␟F232673009",
           "material": "11007744",
           "batch": "F232673009",
           "palletCount": 2
-        },
-        {
-          "key": "11011647␟F232670702",
-          "material": "11011647",
-          "batch": "F232670702",
-          "palletCount": 1
-        },
-        {
-          "key": "11011895␟47W2681103",
-          "material": "11011895",
-          "batch": "47W2681103",
-          "palletCount": 1
         }
       ],
       "totalPallets": 13
@@ -398,21 +227,33 @@
       "bin": "S3A-01-20",
       "lines": [
         {
+          "key": "11010753␟F062681501",
+          "material": "11010753",
+          "batch": "F062681501",
+          "palletCount": 4
+        },
+        {
+          "key": "11010753␟47W2672908",
+          "material": "11010753",
+          "batch": "47W2672908",
+          "palletCount": 4
+        },
+        {
           "key": "11005963␟F232671002",
           "material": "11005963",
           "batch": "F232671002",
           "palletCount": 1
         },
         {
-          "key": "11011647␟F232670702",
-          "material": "11011647",
-          "batch": "F232670702",
+          "key": "11011895␟47W2681007",
+          "material": "11011895",
+          "batch": "47W2681007",
           "palletCount": 1
         },
         {
-          "key": "11011895␟47W2672804",
+          "key": "11011895␟47W2680404",
           "material": "11011895",
-          "batch": "47W2672804",
+          "batch": "47W2680404",
           "palletCount": 1
         },
         {
@@ -422,13 +263,13 @@
           "palletCount": 1
         },
         {
-          "key": "11011895␟47W2681007",
+          "key": "11011895␟47W2672804",
           "material": "11011895",
-          "batch": "47W2681007",
+          "batch": "47W2672804",
           "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 13
     },
     {
       "id": "S3A-01-21_bd293538",
@@ -441,15 +282,15 @@
           "palletCount": 2
         },
         {
-          "key": "11011647␟F312672302",
-          "material": "11011647",
-          "batch": "F312672302",
+          "key": "11011478␟47W2680602",
+          "material": "11011478",
+          "batch": "47W2680602",
           "palletCount": 1
         },
         {
-          "key": "11011895␟47W2680404",
-          "material": "11011895",
-          "batch": "47W2680404",
+          "key": "11011647␟F312672302",
+          "material": "11011647",
+          "batch": "F312672302",
           "palletCount": 1
         },
         {
@@ -469,44 +310,32 @@
           "key": "11007744␟F232672901",
           "material": "11007744",
           "batch": "F232672901",
-          "palletCount": 6
-        },
-        {
-          "key": "11010753␟F252672902",
-          "material": "11010753",
-          "batch": "F252672902",
-          "palletCount": 6
+          "palletCount": 4
         },
         {
           "key": "11010753␟F232670702",
           "material": "11010753",
           "batch": "F232670702",
           "palletCount": 4
-        },
-        {
-          "key": "11010753␟F232670811",
-          "material": "11010753",
-          "batch": "F232670811",
-          "palletCount": 2
         }
       ],
-      "totalPallets": 18
+      "totalPallets": 8
     },
     {
       "id": "S3A-01-23_bf29385e",
       "bin": "S3A-01-23",
       "lines": [
         {
-          "key": "11005963␟F232671001",
-          "material": "11005963",
-          "batch": "F232671001",
-          "palletCount": 4
-        },
-        {
           "key": "11011647␟F232670701",
           "material": "11011647",
           "batch": "F232670701",
           "palletCount": 3
+        },
+        {
+          "key": "11005963␟F232672003",
+          "material": "11005963",
+          "batch": "F232672003",
+          "palletCount": 2
         },
         {
           "key": "11011647␟F232670802",
@@ -515,7 +344,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 6
     },
     {
       "id": "S3A-01-24_c2293d17",
@@ -534,9 +363,9 @@
           "palletCount": 2
         },
         {
-          "key": "11010753␟F232670202",
-          "material": "11010753",
-          "batch": "F232670202",
+          "key": "11007744␟47W2681006",
+          "material": "11007744",
+          "batch": "47W2681006",
           "palletCount": 1
         },
         {
@@ -553,10 +382,22 @@
       "bin": "S3A-01-25",
       "lines": [
         {
+          "key": "11010753␟F062680601",
+          "material": "11010753",
+          "batch": "F062680601",
+          "palletCount": 4
+        },
+        {
           "key": "11011647␟F232670704",
           "material": "11011647",
           "batch": "F232670704",
           "palletCount": 2
+        },
+        {
+          "key": "11005963␟F232680401",
+          "material": "11005963",
+          "batch": "F232680401",
+          "palletCount": 1
         },
         {
           "key": "11005963␟F232672003",
@@ -571,7 +412,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 4
+      "totalPallets": 9
     },
     {
       "id": "S3A-01-26_c429403d",
@@ -588,15 +429,9 @@
           "material": "11010753",
           "batch": "F232670207",
           "palletCount": 2
-        },
-        {
-          "key": "11010753␟F232671104",
-          "material": "11010753",
-          "batch": "F232671104",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 5
     },
     {
       "id": "S3A-01-27_c3293eaa",
@@ -609,10 +444,10 @@
           "palletCount": 2
         },
         {
-          "key": "11011647␟F232670705",
-          "material": "11011647",
-          "batch": "F232670705",
-          "palletCount": 1
+          "key": "11011478␟47W2680602",
+          "material": "11011478",
+          "batch": "47W2680602",
+          "palletCount": 2
         },
         {
           "key": "11011895␟47W2672805",
@@ -621,56 +456,17 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 4
-    },
-    {
-      "id": "S3A-01-28_b6292a33",
-      "bin": "S3A-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-01-29_b52928a0",
-      "bin": "S3A-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-01-30_b826eec2",
-      "bin": "S3A-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 5
     },
     {
       "id": "S3A-02-01_560d0afd",
       "bin": "S3A-02-01",
       "lines": [
         {
-          "key": "11010753␟F252672401",
-          "material": "11010753",
-          "batch": "F252672401",
-          "palletCount": 4
+          "key": "11011895␟47W2672904",
+          "material": "11011895",
+          "batch": "47W2672904",
+          "palletCount": 3
         },
         {
           "key": "11011895␟47W2680404",
@@ -679,12 +475,18 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 4
     },
     {
       "id": "S3A-02-02_530d0644",
       "bin": "S3A-02-02",
       "lines": [
+        {
+          "key": "11007744␟F232671404",
+          "material": "11007744",
+          "batch": "F232671404",
+          "palletCount": 6
+        },
         {
           "key": "11010753␟47W2672801",
           "material": "11010753",
@@ -704,7 +506,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 11
     },
     {
       "id": "S3A-02-03_540d07d7",
@@ -715,21 +517,9 @@
           "material": "11011647",
           "batch": "F312672902",
           "palletCount": 4
-        },
-        {
-          "key": "11011647␟F232670203",
-          "material": "11011647",
-          "batch": "F232670203",
-          "palletCount": 1
-        },
-        {
-          "key": "11011647␟F232670810",
-          "material": "11011647",
-          "batch": "F232670810",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 4
     },
     {
       "id": "S3A-02-04_510d031e",
@@ -773,12 +563,6 @@
           "palletCount": 3
         },
         {
-          "key": "11010753␟F232671104",
-          "material": "11010753",
-          "batch": "F232671104",
-          "palletCount": 2
-        },
-        {
           "key": "11011895␟47W2681007",
           "material": "11011895",
           "batch": "47W2681007",
@@ -791,7 +575,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 6
     },
     {
       "id": "S3A-02-06_4f0cfff8",
@@ -835,12 +619,6 @@
           "palletCount": 2
         },
         {
-          "key": "11010753␟F252672902",
-          "material": "11010753",
-          "batch": "F252672902",
-          "palletCount": 1
-        },
-        {
           "key": "11011647␟F232670703",
           "material": "11011647",
           "batch": "F232670703",
@@ -853,23 +631,23 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 4
     },
     {
       "id": "S3A-02-08_4d0cfcd2",
       "bin": "S3A-02-08",
       "lines": [
         {
+          "key": "11011895␟47W2672803",
+          "material": "11011895",
+          "batch": "47W2672803",
+          "palletCount": 4
+        },
+        {
           "key": "11011895␟47W2681003",
           "material": "11011895",
           "batch": "47W2681003",
           "palletCount": 3
-        },
-        {
-          "key": "11010753␟47W2672906",
-          "material": "11010753",
-          "batch": "47W2672906",
-          "palletCount": 1
         },
         {
           "key": "11010753␟F232670707",
@@ -878,41 +656,29 @@
           "palletCount": 1
         },
         {
+          "key": "11010753␟47W2672906",
+          "material": "11010753",
+          "batch": "47W2672906",
+          "palletCount": 1
+        },
+        {
           "key": "11011647␟F312672302",
           "material": "11011647",
           "batch": "F312672302",
           "palletCount": 1
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 10
     },
     {
       "id": "S3A-02-09_4e0cfe65",
       "bin": "S3A-02-09",
       "lines": [
         {
-          "key": "11010753␟F252672401",
+          "key": "11010753␟F062680601",
           "material": "11010753",
-          "batch": "F252672401",
-          "palletCount": 3
-        },
-        {
-          "key": "11007744␟47W2672903",
-          "material": "11007744",
-          "batch": "47W2672903",
-          "palletCount": 1
-        },
-        {
-          "key": "11007744␟F232670703",
-          "material": "11007744",
-          "batch": "F232670703",
-          "palletCount": 1
-        },
-        {
-          "key": "11011647␟F232670705",
-          "material": "11011647",
-          "batch": "F232670705",
-          "palletCount": 1
+          "batch": "F062680601",
+          "palletCount": 4
         },
         {
           "key": "11011647␟F312672302",
@@ -921,7 +687,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 7
+      "totalPallets": 5
     },
     {
       "id": "S3A-02-10_3b0f1f13",
@@ -990,15 +756,15 @@
           "palletCount": 1
         },
         {
-          "key": "11011895␟47W2672906",
-          "material": "11011895",
-          "batch": "47W2672906",
-          "palletCount": 1
-        },
-        {
           "key": "11011895␟47W2680302",
           "material": "11011895",
           "batch": "47W2680302",
+          "palletCount": 1
+        },
+        {
+          "key": "11011895␟47W2672906",
+          "material": "11011895",
+          "batch": "47W2672906",
           "palletCount": 1
         }
       ],
@@ -1040,15 +806,15 @@
           "palletCount": 2
         },
         {
-          "key": "11011647␟F232670805",
-          "material": "11011647",
-          "batch": "F232670805",
-          "palletCount": 1
-        },
-        {
           "key": "11011647␟F232670808",
           "material": "11011647",
           "batch": "F232670808",
+          "palletCount": 1
+        },
+        {
+          "key": "11011647␟F232670805",
+          "material": "11011647",
+          "batch": "F232670805",
           "palletCount": 1
         },
         {
@@ -1065,10 +831,22 @@
       "bin": "S3A-02-15",
       "lines": [
         {
+          "key": "11005963␟F232673006",
+          "material": "11005963",
+          "batch": "F232673006",
+          "palletCount": 3
+        },
+        {
           "key": "11005963␟F232680304",
           "material": "11005963",
           "batch": "F232680304",
           "palletCount": 2
+        },
+        {
+          "key": "11005963␟F232672901",
+          "material": "11005963",
+          "batch": "F232672901",
+          "palletCount": 1
         },
         {
           "key": "11011895␟47W2672803",
@@ -1077,7 +855,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 3
+      "totalPallets": 7
     },
     {
       "id": "S3A-02-16_410f2885",
@@ -1121,9 +899,9 @@
           "palletCount": 3
         },
         {
-          "key": "11007744␟47W2672805",
+          "key": "11007744␟47W2680601",
           "material": "11007744",
-          "batch": "47W2672805",
+          "batch": "47W2680601",
           "palletCount": 1
         },
         {
@@ -1183,15 +961,15 @@
           "palletCount": 4
         },
         {
-          "key": "11011895␟47W2672806",
-          "material": "11011895",
-          "batch": "47W2672806",
-          "palletCount": 2
-        },
-        {
           "key": "11011895␟47W2680301",
           "material": "11011895",
           "batch": "47W2680301",
+          "palletCount": 2
+        },
+        {
+          "key": "11011895␟47W2672806",
+          "material": "11011895",
+          "batch": "47W2672806",
           "palletCount": 2
         }
       ],
@@ -1245,50 +1023,13 @@
           "palletCount": 1
         },
         {
-          "key": "11011647␟F232670705",
-          "material": "11011647",
-          "batch": "F232670705",
-          "palletCount": 1
-        },
-        {
           "key": "11011895␟47W2690504",
           "material": "11011895",
           "batch": "47W2690504",
           "palletCount": 1
         }
       ],
-      "totalPallets": 5
-    },
-    {
-      "id": "S3A-02-22_cb07b2fe",
-      "bin": "S3A-02-22",
-      "lines": [
-        {
-          "key": "11010753␟F252670803",
-          "material": "11010753",
-          "batch": "F252670803",
-          "palletCount": 2
-        },
-        {
-          "key": "11010753␟47W2672803",
-          "material": "11010753",
-          "batch": "47W2672803",
-          "palletCount": 1
-        },
-        {
-          "key": "11010753␟47W2672805",
-          "material": "11010753",
-          "batch": "47W2672805",
-          "palletCount": 1
-        },
-        {
-          "key": "11010753␟F252672901",
-          "material": "11010753",
-          "batch": "F252672901",
-          "palletCount": 1
-        }
-      ],
-      "totalPallets": 5
+      "totalPallets": 4
     },
     {
       "id": "S3A-02-23_cc07b491",
@@ -1301,15 +1042,15 @@
           "palletCount": 2
         },
         {
-          "key": "11005963␟F232671002",
-          "material": "11005963",
-          "batch": "F232671002",
-          "palletCount": 1
-        },
-        {
           "key": "11005963␟F232672002",
           "material": "11005963",
           "batch": "F232672002",
+          "palletCount": 1
+        },
+        {
+          "key": "11005963␟F232671002",
+          "material": "11005963",
+          "batch": "F232671002",
           "palletCount": 1
         },
         {
@@ -1326,15 +1067,15 @@
       "bin": "S3A-02-24",
       "lines": [
         {
-          "key": "11005963␟F232670704",
-          "material": "11005963",
-          "batch": "F232670704",
-          "palletCount": 2
-        },
-        {
           "key": "11005963␟F232680304",
           "material": "11005963",
           "batch": "F232680304",
+          "palletCount": 1
+        },
+        {
+          "key": "11007744␟F232673004",
+          "material": "11007744",
+          "batch": "F232673004",
           "palletCount": 1
         },
         {
@@ -1344,24 +1085,30 @@
           "palletCount": 1
         },
         {
-          "key": "11011895␟47W2672802",
-          "material": "11011895",
-          "batch": "47W2672802",
-          "palletCount": 1
-        },
-        {
           "key": "11011895␟47W2672901",
           "material": "11011895",
           "batch": "47W2672901",
           "palletCount": 1
+        },
+        {
+          "key": "11011895␟47W2672802",
+          "material": "11011895",
+          "batch": "47W2672802",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 5
     },
     {
       "id": "S3A-02-25_ce07b7b7",
       "bin": "S3A-02-25",
       "lines": [
+        {
+          "key": "11011478␟47W2680602",
+          "material": "11011478",
+          "batch": "47W2680602",
+          "palletCount": 3
+        },
         {
           "key": "11011895␟47W2690504",
           "material": "11011895",
@@ -1375,19 +1122,19 @@
           "palletCount": 1
         },
         {
-          "key": "11011895␟47W2672801",
-          "material": "11011895",
-          "batch": "47W2672801",
-          "palletCount": 1
-        },
-        {
           "key": "11011895␟47W2681003",
           "material": "11011895",
           "batch": "47W2681003",
           "palletCount": 1
+        },
+        {
+          "key": "11011895␟47W2672801",
+          "material": "11011895",
+          "batch": "47W2672801",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 8
     },
     {
       "id": "S3A-02-26_cf07b94a",
@@ -1406,12 +1153,6 @@
           "palletCount": 4
         },
         {
-          "key": "11010753␟F232671104",
-          "material": "11010753",
-          "batch": "F232671104",
-          "palletCount": 3
-        },
-        {
           "key": "11005963␟F232672001",
           "material": "11005963",
           "batch": "F232672001",
@@ -1424,19 +1165,13 @@
           "palletCount": 1
         },
         {
-          "key": "11011647␟F232670203",
-          "material": "11011647",
-          "batch": "F232670203",
-          "palletCount": 1
-        },
-        {
           "key": "11012233␟F062642304",
           "material": "11012233",
           "batch": "F062642304",
           "palletCount": 1
         }
       ],
-      "totalPallets": 15
+      "totalPallets": 11
     },
     {
       "id": "S3A-02-27_d007badd",
@@ -1447,12 +1182,6 @@
           "material": "11011895",
           "batch": "47W2672901",
           "palletCount": 2
-        },
-        {
-          "key": "11010753␟F252670803",
-          "material": "11010753",
-          "batch": "F252670803",
-          "palletCount": 1
         },
         {
           "key": "11011647␟F312672302",
@@ -1473,59 +1202,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 6
-    },
-    {
-      "id": "S3A-02-28_c107a340",
-      "bin": "S3A-02-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-02-29_c207a4d3",
-      "bin": "S3A-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-02-30_4f0ac161",
-      "bin": "S3A-02-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3A-ANDY_87577359",
-      "bin": "S3A-ANDY",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 5
     },
     {
       "id": "S3A-IQC_44d244c8",
@@ -1550,15 +1227,15 @@
           "palletCount": 1
         },
         {
-          "key": "11010753␟F062660201",
-          "material": "11010753",
-          "batch": "F062660201",
-          "palletCount": 1
-        },
-        {
           "key": "11010753␟F232660206",
           "material": "11010753",
           "batch": "F232660206",
+          "palletCount": 1
+        },
+        {
+          "key": "11010753␟F062660201",
+          "material": "11010753",
+          "batch": "F062660201",
           "palletCount": 1
         },
         {
@@ -1619,15 +1296,15 @@
       "bin": "S3B-01-03",
       "lines": [
         {
-          "key": "11010753␟47W2672902",
-          "material": "11010753",
-          "batch": "47W2672902",
-          "palletCount": 10
-        },
-        {
           "key": "11010753␟47W2672905",
           "material": "11010753",
           "batch": "47W2672905",
+          "palletCount": 10
+        },
+        {
+          "key": "11010753␟47W2672902",
+          "material": "11010753",
+          "batch": "47W2672902",
           "palletCount": 10
         },
         {
@@ -1659,19 +1336,6 @@
       "totalPallets": 30
     },
     {
-      "id": "S3B-01-05_20e1fa2f",
-      "bin": "S3B-01-05",
-      "lines": [
-        {
-          "key": "11010753␟F232670202",
-          "material": "11010753",
-          "batch": "F232670202",
-          "palletCount": 25
-        }
-      ],
-      "totalPallets": 25
-    },
-    {
       "id": "S3B-01-06_21e1fbc2",
       "bin": "S3B-01-06",
       "lines": [
@@ -1695,13 +1359,13 @@
       "bin": "S3B-01-07",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062672401",
+          "material": "11010753",
+          "batch": "F062672401",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 8
     },
     {
       "id": "S3B-01-08_23e1fee8",
@@ -1728,19 +1392,6 @@
         }
       ],
       "totalPallets": 19
-    },
-    {
-      "id": "S3B-01-10_21e43a59",
-      "bin": "S3B-01-10",
-      "lines": [
-        {
-          "key": "11010753␟F232670203",
-          "material": "11010753",
-          "batch": "F232670203",
-          "palletCount": 9
-        }
-      ],
-      "totalPallets": 9
     },
     {
       "id": "S3B-01-11_20e438c6",
@@ -1782,19 +1433,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3B-01-14_25e440a5",
-      "bin": "S3B-01-14",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3B-01-15_24e43f12",
       "bin": "S3B-01-15",
       "lines": [
@@ -1827,30 +1465,17 @@
       "totalPallets": 8
     },
     {
-      "id": "S3B-01-17_22e43bec",
-      "bin": "S3B-01-17",
-      "lines": [
-        {
-          "key": "11010753␟F232670811",
-          "material": "11010753",
-          "batch": "F232670811",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
       "id": "S3B-01-18_29e446f1",
       "bin": "S3B-01-18",
       "lines": [
         {
-          "key": "11010753␟F232670201",
+          "key": "11010753␟F062680801",
           "material": "11010753",
-          "batch": "F232670201",
-          "palletCount": 15
+          "batch": "F062680801",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 15
+      "totalPallets": 32
     },
     {
       "id": "S3B-01-19_28e4455e",
@@ -1866,19 +1491,6 @@
       "totalPallets": 24
     },
     {
-      "id": "S3B-01-20_27e68262",
-      "bin": "S3B-01-20",
-      "lines": [
-        {
-          "key": "11011478␟47W2680302",
-          "material": "11011478",
-          "batch": "47W2680302",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
       "id": "S3B-01-21_28e683f5",
       "bin": "S3B-01-21",
       "lines": [
@@ -1886,23 +1498,10 @@
           "key": "11011647␟F232671002",
           "material": "11011647",
           "batch": "F232671002",
-          "palletCount": 12
+          "palletCount": 15
         }
       ],
-      "totalPallets": 12
-    },
-    {
-      "id": "S3B-01-22_25e67f3c",
-      "bin": "S3B-01-22",
-      "lines": [
-        {
-          "key": "11010753␟F232670205",
-          "material": "11010753",
-          "batch": "F232670205",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
+      "totalPallets": 15
     },
     {
       "id": "S3B-01-23_26e680cf",
@@ -1918,19 +1517,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3B-01-24_23e67c16",
-      "bin": "S3B-01-24",
-      "lines": [
-        {
-          "key": "11010753␟F232670206",
-          "material": "11010753",
-          "batch": "F232670206",
-          "palletCount": 12
-        }
-      ],
-      "totalPallets": 12
-    },
-    {
       "id": "S3B-01-25_24e67da9",
       "bin": "S3B-01-25",
       "lines": [
@@ -1938,13 +1524,7 @@
           "key": "11010753␟47W2680403",
           "material": "11010753",
           "batch": "47W2680403",
-          "palletCount": 7
-        },
-        {
-          "key": "11010753␟47W2672301",
-          "material": "11010753",
-          "batch": "47W2672301",
-          "palletCount": 4
+          "palletCount": 11
         }
       ],
       "totalPallets": 11
@@ -1970,55 +1550,10 @@
           "key": "11010753␟47W2680601",
           "material": "11010753",
           "batch": "47W2680601",
-          "palletCount": 10
-        },
-        {
-          "key": "11010753␟47W2672801",
-          "material": "11010753",
-          "batch": "47W2672801",
-          "palletCount": 1
+          "palletCount": 8
         }
       ],
-      "totalPallets": 11
-    },
-    {
-      "id": "S3B-01-28_2fe68efa",
-      "bin": "S3B-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3B-01-29_30e6908d",
-      "bin": "S3B-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3B-01-30_2de8ca6b",
-      "bin": "S3B-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 8
     },
     {
       "id": "S3B-02-01_51302430",
@@ -2038,19 +1573,13 @@
       "bin": "S3B-02-02",
       "lines": [
         {
-          "key": "11010753␟47W2672801",
-          "material": "11010753",
-          "batch": "47W2672801",
-          "palletCount": 11
-        },
-        {
           "key": "11010753␟47W2672301",
           "material": "11010753",
           "batch": "47W2672301",
           "palletCount": 2
         }
       ],
-      "totalPallets": 13
+      "totalPallets": 2
     },
     {
       "id": "S3B-02-03_53302756",
@@ -2066,30 +1595,23 @@
       "totalPallets": 26
     },
     {
-      "id": "S3B-02-04_56302c0f",
-      "bin": "S3B-02-04",
-      "lines": [
-        {
-          "key": "11011647␟F232670705",
-          "material": "11011647",
-          "batch": "F232670705",
-          "palletCount": 7
-        }
-      ],
-      "totalPallets": 7
-    },
-    {
       "id": "S3B-02-05_55302a7c",
       "bin": "S3B-02-05",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11005963␟F232673012",
+          "material": "11005963",
+          "batch": "F232673012",
+          "palletCount": 16
+        },
+        {
+          "key": "11005963␟F232673011",
+          "material": "11005963",
+          "batch": "F232673011",
+          "palletCount": 16
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3B-02-06_58302f35",
@@ -2144,36 +1666,36 @@
           "key": "11005963␟F232671301",
           "material": "11005963",
           "batch": "F232671301",
-          "palletCount": 7
+          "palletCount": 6
         }
       ],
-      "totalPallets": 7
+      "totalPallets": 6
     },
     {
       "id": "S3B-02-10_6c2e101a",
       "bin": "S3B-02-10",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11012233␟F062661204",
+          "material": "11012233",
+          "batch": "F062661204",
+          "palletCount": 24
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 24
     },
     {
       "id": "S3B-02-11_6d2e11ad",
       "bin": "S3B-02-11",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11012233␟F062672405",
+          "material": "11012233",
+          "batch": "F062672405",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 8
     },
     {
       "id": "S3B-02-12_6a2e0cf4",
@@ -2225,13 +1747,13 @@
       "bin": "S3B-02-15",
       "lines": [
         {
-          "key": "11010753␟F232662706",
-          "material": "11010753",
-          "batch": "F232662706",
-          "palletCount": 29
+          "key": "11007744␟F232680401",
+          "material": "11007744",
+          "batch": "F232680401",
+          "palletCount": 24
         }
       ],
-      "totalPallets": 29
+      "totalPallets": 24
     },
     {
       "id": "S3B-02-16_662e06a8",
@@ -2251,13 +1773,13 @@
       "bin": "S3B-02-17",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11012233␟F062680301",
+          "material": "11012233",
+          "batch": "F062680301",
+          "palletCount": 16
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 16
     },
     {
       "id": "S3B-02-18_642e0382",
@@ -2280,23 +1802,29 @@
           "key": "11010753␟F062660201",
           "material": "11010753",
           "batch": "F062660201",
-          "palletCount": 8
+          "palletCount": 29
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 29
     },
     {
       "id": "S3B-02-20_e62afe91",
       "bin": "S3B-02-20",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062680801",
+          "material": "11010753",
+          "batch": "F062680801",
+          "palletCount": 7
+        },
+        {
+          "key": "11010753␟F062680601",
+          "material": "11010753",
+          "batch": "F062680601",
+          "palletCount": 5
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 12
     },
     {
       "id": "S3B-02-21_e52afcfe",
@@ -2329,13 +1857,13 @@
       "bin": "S3B-02-23",
       "lines": [
         {
-          "key": "11010753␟F062642303",
-          "material": "11010753",
-          "batch": "F062642303",
-          "palletCount": 13
+          "key": "11012233␟F062681501",
+          "material": "11012233",
+          "batch": "F062681501",
+          "palletCount": 15
         }
       ],
-      "totalPallets": 13
+      "totalPallets": 15
     },
     {
       "id": "S3B-02-24_ea2b04dd",
@@ -2364,10 +1892,10 @@
           "key": "11010753␟F322671101",
           "material": "11010753",
           "batch": "F322671101",
-          "palletCount": 10
+          "palletCount": 8
         }
       ],
-      "totalPallets": 10
+      "totalPallets": 8
     },
     {
       "id": "S3B-02-26_e82b01b7",
@@ -2396,56 +1924,17 @@
       "totalPallets": 6
     },
     {
-      "id": "S3B-02-28_de2af1f9",
-      "bin": "S3B-02-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3B-02-29_dd2af066",
-      "bin": "S3B-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3B-02-30_e028b688",
-      "bin": "S3B-02-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3C-01-01_f8137168",
       "bin": "S3C-01-01",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11012233␟F062661204",
+          "material": "11012233",
+          "batch": "F062661204",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3C-01-02_fb137621",
@@ -2455,23 +1944,10 @@
           "key": "11010753␟47W2680403",
           "material": "11010753",
           "batch": "47W2680403",
-          "palletCount": 8
+          "palletCount": 11
         }
       ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3C-01-03_fa13748e",
-      "bin": "S3C-01-03",
-      "lines": [
-        {
-          "key": "11011647␟F232662707",
-          "material": "11011647",
-          "batch": "F232662707",
-          "palletCount": 28
-        }
-      ],
-      "totalPallets": 28
+      "totalPallets": 11
     },
     {
       "id": "S3C-01-04_fd137947",
@@ -2529,13 +2005,13 @@
       "bin": "S3C-01-07",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062680602",
+          "material": "11010753",
+          "batch": "F062680602",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3C-01-08_f1136663",
@@ -2584,23 +2060,10 @@
           "key": "11011478␟47W2681005",
           "material": "11011478",
           "batch": "47W2681005",
-          "palletCount": 32
+          "palletCount": 25
         }
       ],
-      "totalPallets": 32
-    },
-    {
-      "id": "S3C-01-12_71105e4c",
-      "bin": "S3C-01-12",
-      "lines": [
-        {
-          "key": "11011647␟F232670205",
-          "material": "11011647",
-          "batch": "F232670205",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
+      "totalPallets": 25
     },
     {
       "id": "S3C-01-13_72105fdf",
@@ -2620,9 +2083,9 @@
       "bin": "S3C-01-14",
       "lines": [
         {
-          "key": "11011647␟F232662707",
-          "material": "11011647",
-          "batch": "F232662707",
+          "key": "11007744␟F232680402",
+          "material": "11007744",
+          "batch": "F232680402",
           "palletCount": 32
         }
       ],
@@ -2646,13 +2109,19 @@
       "bin": "S3C-01-16",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11012233␟F062680601",
+          "material": "11012233",
+          "batch": "F062680601",
+          "palletCount": 23
+        },
+        {
+          "key": "11011647␟F232670811",
+          "material": "11011647",
+          "batch": "F232670811",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 24
     },
     {
       "id": "S3C-01-17_6e105993",
@@ -2672,13 +2141,13 @@
       "bin": "S3C-01-18",
       "lines": [
         {
-          "key": "11011647␟F232670811",
-          "material": "11011647",
-          "batch": "F232670811",
-          "palletCount": 1
+          "key": "11010753␟47W2680601",
+          "material": "11010753",
+          "batch": "47W2680601",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 1
+      "totalPallets": 8
     },
     {
       "id": "S3C-01-19_7c106f9d",
@@ -2718,31 +2187,6 @@
         }
       ],
       "totalPallets": 8
-    },
-    {
-      "id": "S3C-01-22_6b0e1643",
-      "bin": "S3C-01-22",
-      "lines": [
-        {
-          "key": "11010753␟F062680301",
-          "material": "11010753",
-          "batch": "F062680301",
-          "palletCount": 8
-        },
-        {
-          "key": "11011895␟47W2681003",
-          "material": "11011895",
-          "batch": "47W2681003",
-          "palletCount": 5
-        },
-        {
-          "key": "11011647␟F232671401",
-          "material": "11011647",
-          "batch": "F232671401",
-          "palletCount": 2
-        }
-      ],
-      "totalPallets": 15
     },
     {
       "id": "S3C-01-23_6a0e14b0",
@@ -2816,56 +2260,23 @@
       "totalPallets": 16
     },
     {
-      "id": "S3C-01-28_750e2601",
-      "bin": "S3C-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3C-01-29_740e246e",
-      "bin": "S3C-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3C-01-30_670bd160",
-      "bin": "S3C-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3C-02-01_1b359b1b",
       "bin": "S3C-02-01",
       "lines": [
         {
-          "key": "11011478␟47W2672904",
-          "material": "11011478",
-          "batch": "47W2672904",
+          "key": "11007744␟F232673004",
+          "material": "11007744",
+          "batch": "F232673004",
           "palletCount": 20
+        },
+        {
+          "key": "11007744␟F232673006",
+          "material": "11007744",
+          "batch": "F232673006",
+          "palletCount": 12
         }
       ],
-      "totalPallets": 20
+      "totalPallets": 32
     },
     {
       "id": "S3C-02-02_1c359cae",
@@ -2898,13 +2309,13 @@
       "bin": "S3C-02-04",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062661201",
+          "material": "11010753",
+          "batch": "F062661201",
+          "palletCount": 22
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 22
     },
     {
       "id": "S3C-02-05_1f35a167",
@@ -2915,59 +2326,28 @@
           "material": "11005963",
           "batch": "F232673010",
           "palletCount": 7
-        }
-      ],
-      "totalPallets": 7
-    },
-    {
-      "id": "S3C-02-06_2035a2fa",
-      "bin": "S3C-02-06",
-      "lines": [
-        {
-          "key": "11005963␟F232671001",
-          "material": "11005963",
-          "batch": "F232671001",
-          "palletCount": 1
         },
         {
           "key": "11005963␟F232671002",
           "material": "11005963",
           "batch": "F232671002",
           "palletCount": 1
-        },
-        {
-          "key": "11010753␟47W2672902",
-          "material": "11010753",
-          "batch": "47W2672902",
-          "palletCount": 1
-        },
-        {
-          "key": "11010753␟F232670202",
-          "material": "11010753",
-          "batch": "F232670202",
-          "palletCount": 1
-        },
-        {
-          "key": "11011647␟F232670215",
-          "material": "11011647",
-          "batch": "F232670215",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 8
     },
     {
-      "id": "S3C-02-07_2135a48d",
-      "bin": "S3C-02-07",
+      "id": "S3C-02-06_2035a2fa",
+      "bin": "S3C-02-06",
       "lines": [
         {
-          "key": "11011478␟47W2681004",
-          "material": "11011478",
-          "batch": "47W2681004",
-          "palletCount": 32
+          "key": "11012233␟F062681301",
+          "material": "11012233",
+          "batch": "F062681301",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 8
     },
     {
       "id": "S3C-02-08_12358cf0",
@@ -2984,15 +2364,9 @@
           "material": "11011895",
           "batch": "47W2680501",
           "palletCount": 4
-        },
-        {
-          "key": "11011647␟F232670209",
-          "material": "11011647",
-          "batch": "F232670209",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 17
+      "totalPallets": 16
     },
     {
       "id": "S3C-02-09_13358e83",
@@ -3021,19 +2395,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3C-02-11_1f37dffe",
-      "bin": "S3C-02-11",
-      "lines": [
-        {
-          "key": "11011478␟47W2680303",
-          "material": "11011478",
-          "batch": "47W2680303",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
       "id": "S3C-02-12_1e37de6b",
       "bin": "S3C-02-12",
       "lines": [
@@ -3051,13 +2412,13 @@
       "bin": "S3C-02-13",
       "lines": [
         {
-          "key": "11011478␟47W2672904",
-          "material": "11011478",
-          "batch": "47W2672904",
-          "palletCount": 2
+          "key": "11012233␟F062681501",
+          "material": "11012233",
+          "batch": "F062681501",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 2
+      "totalPallets": 32
     },
     {
       "id": "S3C-02-14_2437e7dd",
@@ -3116,25 +2477,13 @@
       "bin": "S3C-02-18",
       "lines": [
         {
-          "key": "11007744␟47W2672805",
-          "material": "11007744",
-          "batch": "47W2672805",
-          "palletCount": 10
-        },
-        {
-          "key": "11007744␟47W2680601",
-          "material": "11007744",
-          "batch": "47W2680601",
-          "palletCount": 1
-        },
-        {
-          "key": "11007744␟F232670703",
-          "material": "11007744",
-          "batch": "F232670703",
-          "palletCount": 1
+          "key": "11005963␟F232673012",
+          "material": "11005963",
+          "batch": "F232673012",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 12
+      "totalPallets": 32
     },
     {
       "id": "S3C-02-19_1737d366",
@@ -3176,19 +2525,6 @@
       "totalPallets": 8
     },
     {
-      "id": "S3C-02-22_a43aeff4",
-      "bin": "S3C-02-22",
-      "lines": [
-        {
-          "key": "11011478␟47W2680303",
-          "material": "11011478",
-          "batch": "47W2680303",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
       "id": "S3C-02-23_a53af187",
       "bin": "S3C-02-23",
       "lines": [
@@ -3196,10 +2532,10 @@
           "key": "11005963␟F232671001",
           "material": "11005963",
           "batch": "F232671001",
-          "palletCount": 11
+          "palletCount": 2
         }
       ],
-      "totalPallets": 11
+      "totalPallets": 2
     },
     {
       "id": "S3C-02-24_a23aecce",
@@ -3244,13 +2580,13 @@
       "bin": "S3C-02-26",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062680801",
+          "material": "11010753",
+          "batch": "F062680801",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 8
     },
     {
       "id": "S3C-02-27_a13aeb3b",
@@ -3264,45 +2600,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3C-02-28_9e3ae682",
-      "bin": "S3C-02-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3C-02-29_9f3ae815",
-      "bin": "S3C-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3C-02-30_8c3d08c3",
-      "bin": "S3C-02-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3D-01-01_fbe17895",
@@ -3325,7 +2622,7 @@
           "key": "11011647␟F232670207",
           "material": "11011647",
           "batch": "F232670207",
-          "palletCount": 6
+          "palletCount": 4
         },
         {
           "key": "11011647␟F232671701",
@@ -3334,7 +2631,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 6
     },
     {
       "id": "S3D-01-03_f9e1756f",
@@ -3345,28 +2642,22 @@
           "material": "11011647",
           "batch": "F232670207",
           "palletCount": 30
-        },
-        {
-          "key": "11011647␟F232662707",
-          "material": "11011647",
-          "batch": "F232662707",
-          "palletCount": 2
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 30
     },
     {
       "id": "S3D-01-04_f6e170b6",
       "bin": "S3D-01-04",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11005963␟F232673007",
+          "material": "11005963",
+          "batch": "F232673007",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3D-01-05_f7e17249",
@@ -3498,10 +2789,10 @@
           "key": "11011647␟F232670705",
           "material": "11011647",
           "batch": "F232670705",
-          "palletCount": 15
+          "palletCount": 6
         }
       ],
-      "totalPallets": 15
+      "totalPallets": 6
     },
     {
       "id": "S3D-01-14_4e3c557",
@@ -3511,7 +2802,7 @@
           "key": "11010753␟47W2672804",
           "material": "11010753",
           "batch": "47W2672804",
-          "palletCount": 19
+          "palletCount": 6
         },
         {
           "key": "11010753␟47W2680306",
@@ -3520,7 +2811,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 21
+      "totalPallets": 8
     },
     {
       "id": "S3D-01-15_3e3c3c4",
@@ -3562,32 +2853,6 @@
       "totalPallets": 12
     },
     {
-      "id": "S3D-01-18_f8e3b273",
-      "bin": "S3D-01-18",
-      "lines": [
-        {
-          "key": "11011478␟47W2680401",
-          "material": "11011478",
-          "batch": "47W2680401",
-          "palletCount": 9
-        }
-      ],
-      "totalPallets": 9
-    },
-    {
-      "id": "S3D-01-19_f7e3b0e0",
-      "bin": "S3D-01-19",
-      "lines": [
-        {
-          "key": "11011647␟F232662707",
-          "material": "11011647",
-          "batch": "F232662707",
-          "palletCount": 17
-        }
-      ],
-      "totalPallets": 17
-    },
-    {
       "id": "S3D-01-20_6edc1d70",
       "bin": "S3D-01-20",
       "lines": [
@@ -3605,13 +2870,13 @@
       "bin": "S3D-01-21",
       "lines": [
         {
-          "key": "11011647␟F232670205",
-          "material": "11011647",
-          "batch": "F232670205",
-          "palletCount": 16
+          "key": "11005963␟F232673003",
+          "material": "11005963",
+          "batch": "F232673003",
+          "palletCount": 2
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 2
     },
     {
       "id": "S3D-01-22_70dc2096",
@@ -3659,30 +2924,17 @@
       "totalPallets": 32
     },
     {
-      "id": "S3D-01-25_73dc254f",
-      "bin": "S3D-01-25",
-      "lines": [
-        {
-          "key": "11011647␟F232670204",
-          "material": "11011647",
-          "batch": "F232670204",
-          "palletCount": 30
-        }
-      ],
-      "totalPallets": 30
-    },
-    {
       "id": "S3D-01-26_74dc26e2",
       "bin": "S3D-01-26",
       "lines": [
         {
-          "key": "11007744␟F232670704",
-          "material": "11007744",
-          "batch": "F232670704",
-          "palletCount": 6
+          "key": "11010753␟F062681501",
+          "material": "11010753",
+          "batch": "F062681501",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 32
     },
     {
       "id": "S3D-01-27_75dc2875",
@@ -3696,45 +2948,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3D-01-28_76dc2a08",
-      "bin": "S3D-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3D-01-29_77dc2b9b",
-      "bin": "S3D-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3D-01-30_74de6579",
-      "bin": "S3D-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3D-02-01_30f436be",
@@ -3791,19 +3004,13 @@
           "palletCount": 8
         },
         {
-          "key": "11011647␟F232670202",
-          "material": "11011647",
-          "batch": "F232670202",
-          "palletCount": 1
-        },
-        {
           "key": "11011647␟F312672902",
           "material": "11011647",
           "batch": "F312672902",
           "palletCount": 1
         }
       ],
-      "totalPallets": 10
+      "totalPallets": 9
     },
     {
       "id": "S3D-02-04_35f43e9d",
@@ -3829,19 +3036,6 @@
         }
       ],
       "totalPallets": 18
-    },
-    {
-      "id": "S3D-02-05_34f43d0a",
-      "bin": "S3D-02-05",
-      "lines": [
-        {
-          "key": "11011895␟47W2672301",
-          "material": "11011895",
-          "batch": "47W2672301",
-          "palletCount": 9
-        }
-      ],
-      "totalPallets": 9
     },
     {
       "id": "S3D-02-06_33f43b77",
@@ -3902,30 +3096,17 @@
       "totalPallets": 28
     },
     {
-      "id": "S3D-02-10_2bf1f048",
-      "bin": "S3D-02-10",
-      "lines": [
-        {
-          "key": "11011647␟F232670810",
-          "material": "11011647",
-          "batch": "F232670810",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
-    },
-    {
       "id": "S3D-02-11_2cf1f1db",
       "bin": "S3D-02-11",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062661201",
+          "material": "11010753",
+          "batch": "F062661201",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 8
     },
     {
       "id": "S3D-02-12_2df1f36e",
@@ -4012,10 +3193,10 @@
           "key": "11005963␟F232680402",
           "material": "11005963",
           "batch": "F232680402",
-          "palletCount": 32
+          "palletCount": 31
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 31
     },
     {
       "id": "S3D-02-18_23f1e3b0",
@@ -4067,25 +3248,13 @@
       "bin": "S3D-02-21",
       "lines": [
         {
-          "key": "11011478␟47W2680301",
-          "material": "11011478",
-          "batch": "47W2680301",
-          "palletCount": 16
-        },
-        {
           "key": "11011478␟47W2680602",
           "material": "11011478",
           "batch": "47W2680602",
           "palletCount": 11
-        },
-        {
-          "key": "11011478␟47W2680401",
-          "material": "11011478",
-          "batch": "47W2680401",
-          "palletCount": 4
         }
       ],
-      "totalPallets": 31
+      "totalPallets": 11
     },
     {
       "id": "S3D-02-22_9ff962a9",
@@ -4131,13 +3300,13 @@
       "bin": "S3D-02-25",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11007744␟47W2681002",
+          "material": "11007744",
+          "batch": "47W2681002",
+          "palletCount": 30
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 30
     },
     {
       "id": "S3D-02-26_a3f968f5",
@@ -4164,45 +3333,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3D-02-28_a5f96c1b",
-      "bin": "S3D-02-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3D-02-29_a4f96a88",
-      "bin": "S3D-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3D-02-30_b7f749da",
-      "bin": "S3D-02-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3E-01-01_faed80f2",
@@ -4247,13 +3377,13 @@
       "bin": "S3E-01-03",
       "lines": [
         {
-          "key": "11007744␟F232671404",
-          "material": "11007744",
-          "batch": "F232671404",
-          "palletCount": 6
+          "key": "11010753␟F062672401",
+          "material": "11010753",
+          "batch": "F062672401",
+          "palletCount": 30
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 30
     },
     {
       "id": "S3E-01-04_f7ed7c39",
@@ -4301,34 +3431,9 @@
       "totalPallets": 32
     },
     {
-      "id": "S3E-01-07_f4ed7780",
-      "bin": "S3E-01-07",
-      "lines": [
-        {
-          "key": "11011647␟F232670205",
-          "material": "11011647",
-          "batch": "F232670205",
-          "palletCount": 8
-        },
-        {
-          "key": "11011647␟F232670705",
-          "material": "11011647",
-          "batch": "F232670705",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 16
-    },
-    {
       "id": "S3E-01-08_3ed8f1d",
       "bin": "S3E-01-08",
       "lines": [
-        {
-          "key": "11007744␟F232671301",
-          "material": "11007744",
-          "batch": "F232671301",
-          "palletCount": 3
-        },
         {
           "key": "11007744␟F232673005",
           "material": "11007744",
@@ -4340,15 +3445,9 @@
           "material": "11010753",
           "batch": "F232670212",
           "palletCount": 2
-        },
-        {
-          "key": "11007744␟F232690301",
-          "material": "11007744",
-          "batch": "F232690301",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 4
     },
     {
       "id": "S3E-01-09_2ed8d8a",
@@ -4365,15 +3464,9 @@
           "material": "11011895",
           "batch": "47W2672801",
           "palletCount": 8
-        },
-        {
-          "key": "11011895␟47W2672301",
-          "material": "11011895",
-          "batch": "47W2672301",
-          "palletCount": 3
         }
       ],
-      "totalPallets": 29
+      "totalPallets": 26
     },
     {
       "id": "S3E-01-10_f5eb3a7c",
@@ -4454,23 +3547,10 @@
           "key": "11011647␟F232670809",
           "material": "11011647",
           "batch": "F232670809",
-          "palletCount": 8
+          "palletCount": 16
         }
       ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3E-01-16_f3eb3756",
-      "bin": "S3E-01-16",
-      "lines": [
-        {
-          "key": "11011647␟F232670203",
-          "material": "11011647",
-          "batch": "F232670203",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
+      "totalPallets": 16
     },
     {
       "id": "S3E-01-17_f4eb38e9",
@@ -4518,19 +3598,6 @@
       "totalPallets": 23
     },
     {
-      "id": "S3E-01-20_87f2dc17",
-      "bin": "S3E-01-20",
-      "lines": [
-        {
-          "key": "11011895␟47W2672004",
-          "material": "11011895",
-          "batch": "47W2672004",
-          "palletCount": 28
-        }
-      ],
-      "totalPallets": 28
-    },
-    {
       "id": "S3E-01-21_86f2da84",
       "bin": "S3E-01-21",
       "lines": [
@@ -4548,13 +3615,13 @@
       "bin": "S3E-01-22",
       "lines": [
         {
-          "key": "11010753␟47W2680402",
-          "material": "11010753",
-          "batch": "47W2680402",
-          "palletCount": 2
+          "key": "11012233␟F062671604",
+          "material": "11012233",
+          "batch": "F062671604",
+          "palletCount": 22
         }
       ],
-      "totalPallets": 2
+      "totalPallets": 22
     },
     {
       "id": "S3E-01-23_88f2ddaa",
@@ -4597,15 +3664,9 @@
           "material": "11011647",
           "batch": "F232670212",
           "palletCount": 4
-        },
-        {
-          "key": "11011647␟F232662707",
-          "material": "11011647",
-          "batch": "F232662707",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 31
+      "totalPallets": 30
     },
     {
       "id": "S3E-01-26_85f2d8f1",
@@ -4628,61 +3689,10 @@
           "key": "11011647␟F232670209",
           "material": "11011647",
           "batch": "F232670209",
-          "palletCount": 16
-        },
-        {
-          "key": "11010753␟F232670206",
-          "material": "11010753",
-          "batch": "F232670206",
-          "palletCount": 6
-        },
-        {
-          "key": "11010753␟F232670211",
-          "material": "11010753",
-          "batch": "F232670211",
-          "palletCount": 1
+          "palletCount": 18
         }
       ],
-      "totalPallets": 23
-    },
-    {
-      "id": "S3E-01-28_7ff2cf7f",
-      "bin": "S3E-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3E-01-29_7ef2cdec",
-      "bin": "S3E-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3E-01-30_81f0940e",
-      "bin": "S3E-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 18
     },
     {
       "id": "S3E-02-01_6ff5bc29",
@@ -4693,15 +3703,9 @@
           "material": "11011647",
           "batch": "F232670701",
           "palletCount": 30
-        },
-        {
-          "key": "11011647␟F232670209",
-          "material": "11011647",
-          "batch": "F232670209",
-          "palletCount": 2
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 30
     },
     {
       "id": "S3E-02-02_6cf5b770",
@@ -4872,10 +3876,10 @@
           "key": "11011895␟47W2672905",
           "material": "11011895",
           "batch": "47W2672905",
-          "palletCount": 12
+          "palletCount": 14
         }
       ],
-      "totalPallets": 12
+      "totalPallets": 14
     },
     {
       "id": "S3E-02-14_70f7fc53",
@@ -4895,26 +3899,19 @@
       "bin": "S3E-02-15",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3E-02-16_72f7ff79",
-      "bin": "S3E-02-16",
-      "lines": [
+          "key": "11012233␟F062661204",
+          "material": "11012233",
+          "batch": "F062661204",
+          "palletCount": 16
+        },
         {
-          "key": "11010753␟F232670210",
-          "material": "11010753",
-          "batch": "F232670210",
-          "palletCount": 8
+          "key": "11012233␟F062671604",
+          "material": "11012233",
+          "batch": "F062671604",
+          "palletCount": 2
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 18
     },
     {
       "id": "S3E-02-17_71f7fde6",
@@ -4924,10 +3921,10 @@
           "key": "11010753␟F232670211",
           "material": "11010753",
           "batch": "F232670211",
-          "palletCount": 7
+          "palletCount": 8
         }
       ],
-      "totalPallets": 7
+      "totalPallets": 8
     },
     {
       "id": "S3E-02-18_7cf80f37",
@@ -5059,58 +4056,6 @@
       "totalPallets": 8
     },
     {
-      "id": "S3E-02-27_1f091d1",
-      "bin": "S3E-02-27",
-      "lines": [
-        {
-          "key": "11011895␟47W2672004",
-          "material": "11011895",
-          "batch": "47W2672004",
-          "palletCount": 11
-        }
-      ],
-      "totalPallets": 11
-    },
-    {
-      "id": "S3E-02-28_faf086cc",
-      "bin": "S3E-02-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3E-02-29_fbf0885f",
-      "bin": "S3E-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3E-02-30_88f3a4ed",
-      "bin": "S3E-02-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3F-01-01_487ba90f",
       "bin": "S3F-01-01",
       "lines": [
@@ -5150,19 +4095,6 @@
       "totalPallets": 15
     },
     {
-      "id": "S3F-01-04_437ba130",
-      "bin": "S3F-01-04",
-      "lines": [
-        {
-          "key": "11010753␟F232670811",
-          "material": "11010753",
-          "batch": "F232670811",
-          "palletCount": 18
-        }
-      ],
-      "totalPallets": 18
-    },
-    {
       "id": "S3F-01-05_447ba2c3",
       "bin": "S3F-01-05",
       "lines": [
@@ -5173,32 +4105,13 @@
           "palletCount": 18
         },
         {
-          "key": "11007744␟F232673009",
-          "material": "11007744",
-          "batch": "F232673009",
-          "palletCount": 5
-        },
-        {
           "key": "11007744␟F232672902",
           "material": "11007744",
           "batch": "F232672902",
           "palletCount": 3
         }
       ],
-      "totalPallets": 26
-    },
-    {
-      "id": "S3F-01-06_457ba456",
-      "bin": "S3F-01-06",
-      "lines": [
-        {
-          "key": "11011647␟F232670206",
-          "material": "11011647",
-          "batch": "F232670206",
-          "palletCount": 28
-        }
-      ],
-      "totalPallets": 28
+      "totalPallets": 21
     },
     {
       "id": "S3F-01-07_467ba5e9",
@@ -5221,7 +4134,7 @@
           "key": "11011647␟F232670701",
           "material": "11011647",
           "batch": "F232670701",
-          "palletCount": 21
+          "palletCount": 19
         },
         {
           "key": "11011647␟F232670703",
@@ -5230,7 +4143,7 @@
           "palletCount": 7
         }
       ],
-      "totalPallets": 28
+      "totalPallets": 26
     },
     {
       "id": "S3F-01-09_507bb5a7",
@@ -5309,25 +4222,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3F-01-15_487de7a6",
-      "bin": "S3F-01-15",
-      "lines": [
-        {
-          "key": "11005963␟F232671501",
-          "material": "11005963",
-          "batch": "F232671501",
-          "palletCount": 19
-        },
-        {
-          "key": "11005963␟F232690301",
-          "material": "11005963",
-          "batch": "F232690301",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 27
     },
     {
       "id": "S3F-01-16_477de613",
@@ -5415,9 +4309,15 @@
           "material": "11005963",
           "batch": "F232671401",
           "palletCount": 6
+        },
+        {
+          "key": "11005963␟F232672001",
+          "material": "11005963",
+          "batch": "F232672001",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 7
     },
     {
       "id": "S3F-01-22_d180fde8",
@@ -5431,19 +4331,6 @@
         }
       ],
       "totalPallets": 6
-    },
-    {
-      "id": "S3F-01-23_d280ff7b",
-      "bin": "S3F-01-23",
-      "lines": [
-        {
-          "key": "11005963␟F232690301",
-          "material": "11005963",
-          "batch": "F232690301",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
     },
     {
       "id": "S3F-01-24_d781075a",
@@ -5489,52 +4376,13 @@
       "bin": "S3F-01-27",
       "lines": [
         {
-          "key": "11011895␟47W2672803",
-          "material": "11011895",
-          "batch": "47W2672803",
-          "palletCount": 4
+          "key": "11005963␟F232673007",
+          "material": "11005963",
+          "batch": "F232673007",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 4
-    },
-    {
-      "id": "S3F-01-28_cb80f476",
-      "bin": "S3F-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3F-01-29_cc80f609",
-      "bin": "S3F-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3F-01-30_d9834917",
-      "bin": "S3F-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 8
     },
     {
       "id": "S3F-02-01_fc7af0fc",
@@ -5670,50 +4518,18 @@
       "bin": "S3F-02-10",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11011895␟47W2672905",
+          "material": "11011895",
+          "batch": "47W2672905",
+          "palletCount": 5
         }
       ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3F-02-11_f878ac19",
-      "bin": "S3F-02-11",
-      "lines": [
-        {
-          "key": "11011478␟47W2680302",
-          "material": "11011478",
-          "batch": "47W2680302",
-          "palletCount": 7
-        }
-      ],
-      "totalPallets": 7
-    },
-    {
-      "id": "S3F-02-12_f578a760",
-      "bin": "S3F-02-12",
-      "lines": [
-        {
-          "key": "11010753␟F062680301",
-          "material": "11010753",
-          "batch": "F062680301",
-          "palletCount": 7
-        }
-      ],
-      "totalPallets": 7
+      "totalPallets": 5
     },
     {
       "id": "S3F-02-13_f678a8f3",
       "bin": "S3F-02-13",
       "lines": [
-        {
-          "key": "11005963␟F232670704",
-          "material": "11005963",
-          "batch": "F232670704",
-          "palletCount": 24
-        },
         {
           "key": "11005963␟F232672004",
           "material": "11005963",
@@ -5721,7 +4537,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 26
+      "totalPallets": 2
     },
     {
       "id": "S3F-02-14_fb78b0d2",
@@ -5737,30 +4553,17 @@
       "totalPallets": 32
     },
     {
-      "id": "S3F-02-15_fc78b265",
-      "bin": "S3F-02-15",
-      "lines": [
-        {
-          "key": "11005963␟F232670704",
-          "material": "11005963",
-          "batch": "F232670704",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
       "id": "S3F-02-16_f978adac",
       "bin": "S3F-02-16",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟47W2680403",
+          "material": "11010753",
+          "batch": "47W2680403",
+          "palletCount": 15
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 15
     },
     {
       "id": "S3F-02-17_fa78af3f",
@@ -5822,15 +4625,9 @@
           "material": "11010753",
           "batch": "47W2672804",
           "palletCount": 8
-        },
-        {
-          "key": "11010753␟47W2680305",
-          "material": "11010753",
-          "batch": "47W2680305",
-          "palletCount": 2
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 30
     },
     {
       "id": "S3F-02-21_9075c9ca",
@@ -5863,13 +4660,13 @@
       "bin": "S3F-02-23",
       "lines": [
         {
-          "key": "11012233␟F062642302",
-          "material": "11012233",
-          "batch": "F062642302",
-          "palletCount": 16
+          "key": "11010753␟F252672401",
+          "material": "11010753",
+          "batch": "F252672401",
+          "palletCount": 7
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 7
     },
     {
       "id": "S3F-02-24_8d75c511",
@@ -5943,21 +4740,9 @@
           "material": "11012233",
           "batch": "F062642303",
           "palletCount": 9
-        },
-        {
-          "key": "11011895␟47W2672004",
-          "material": "11011895",
-          "batch": "47W2672004",
-          "palletCount": 1
-        },
-        {
-          "key": "11012233␟F062642302",
-          "material": "11012233",
-          "batch": "F062642302",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 11
+      "totalPallets": 9
     },
     {
       "id": "S3F-02-28_8975bec5",
@@ -5968,54 +4753,9 @@
           "material": "11007744",
           "batch": "47W2680601",
           "palletCount": 7
-        },
-        {
-          "key": "11007744␟47W2672805",
-          "material": "11007744",
-          "batch": "47W2672805",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3F-02-29_8875bd32",
-      "bin": "S3F-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3F-02-30_8b738354",
-      "bin": "S3F-02-30",
-      "lines": [
-        {
-          "key": "11011478␟47W2672805",
-          "material": "11011478",
-          "batch": "47W2672805",
-          "palletCount": 2
-        }
-      ],
-      "totalPallets": 2
-    },
-    {
-      "id": "S3G-01-01_a243a5f4",
-      "bin": "S3G-01-01",
-      "lines": [
-        {
-          "key": "11011895␟47W2672301",
-          "material": "11011895",
-          "batch": "47W2672301",
-          "palletCount": 15
-        }
-      ],
-      "totalPallets": 15
+      "totalPallets": 7
     },
     {
       "id": "S3G-01-02_a543aaad",
@@ -6067,63 +4807,32 @@
       "bin": "S3G-01-05",
       "lines": [
         {
-          "key": "11011478␟47W2680602",
-          "material": "11011478",
-          "batch": "47W2680602",
-          "palletCount": 1
+          "key": "11012233␟F062672405",
+          "material": "11012233",
+          "batch": "F062672405",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 1
+      "totalPallets": 32
     },
     {
       "id": "S3G-01-06_a143a461",
       "bin": "S3G-01-06",
       "lines": [
         {
-          "key": "11005963␟F232670703",
-          "material": "11005963",
-          "batch": "F232670703",
-          "palletCount": 14
+          "key": "11010753␟F062681502",
+          "material": "11010753",
+          "batch": "F062681502",
+          "palletCount": 18
         },
         {
-          "key": "11011478␟47W2680602",
-          "material": "11011478",
-          "batch": "47W2680602",
+          "key": "11010753␟F062681701",
+          "material": "11010753",
+          "batch": "F062681701",
           "palletCount": 5
-        },
-        {
-          "key": "11005963␟F232672003",
-          "material": "11005963",
-          "batch": "F232672003",
-          "palletCount": 2
-        },
-        {
-          "key": "11011478␟47W2680403",
-          "material": "11011478",
-          "batch": "47W2680403",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 22
-    },
-    {
-      "id": "S3G-01-07_a043a2ce",
-      "bin": "S3G-01-07",
-      "lines": [
-        {
-          "key": "11011895␟47W2672901",
-          "material": "11011895",
-          "batch": "47W2672901",
-          "palletCount": 8
-        },
-        {
-          "key": "11011895␟47W2680301",
-          "material": "11011895",
-          "batch": "47W2680301",
-          "palletCount": 2
-        }
-      ],
-      "totalPallets": 10
+      "totalPallets": 23
     },
     {
       "id": "S3G-01-08_9b439aef",
@@ -6139,19 +4848,6 @@
       "totalPallets": 30
     },
     {
-      "id": "S3G-01-09_9a43995c",
-      "bin": "S3G-01-09",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3G-01-10_1d4095fe",
       "bin": "S3G-01-10",
       "lines": [
@@ -6159,36 +4855,35 @@
           "key": "11012233␟F062642302",
           "material": "11012233",
           "batch": "F062642302",
-          "palletCount": 23
-        }
-      ],
-      "totalPallets": 23
-    },
-    {
-      "id": "S3G-01-11_1e409791",
-      "bin": "S3G-01-11",
-      "lines": [
+          "palletCount": 16
+        },
         {
-          "key": "11005963␟F232672004",
-          "material": "11005963",
-          "batch": "F232672004",
-          "palletCount": 6
+          "key": "11012233␟F062671604",
+          "material": "11012233",
+          "batch": "F062671604",
+          "palletCount": 8
+        },
+        {
+          "key": "11012233␟F062681301",
+          "material": "11012233",
+          "batch": "F062681301",
+          "palletCount": 7
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 31
     },
     {
       "id": "S3G-01-12_1b4092d8",
       "bin": "S3G-01-12",
       "lines": [
         {
-          "key": "11012233␟F062641803",
-          "material": "11012233",
-          "batch": "F062641803",
-          "palletCount": 12
+          "key": "11005963␟F232673012",
+          "material": "11005963",
+          "batch": "F232673012",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 12
+      "totalPallets": 32
     },
     {
       "id": "S3G-01-13_1c40946b",
@@ -6201,13 +4896,19 @@
           "palletCount": 30
         },
         {
+          "key": "11011647␟F232671401",
+          "material": "11011647",
+          "batch": "F232671401",
+          "palletCount": 1
+        },
+        {
           "key": "11011647␟F232670215",
           "material": "11011647",
           "batch": "F232670215",
           "palletCount": 1
         }
       ],
-      "totalPallets": 31
+      "totalPallets": 32
     },
     {
       "id": "S3G-01-14_21409c4a",
@@ -6231,9 +4932,15 @@
           "material": "11011895",
           "batch": "47W2672902",
           "palletCount": 10
+        },
+        {
+          "key": "11011895␟47W2681003",
+          "material": "11011895",
+          "batch": "47W2681003",
+          "palletCount": 4
         }
       ],
-      "totalPallets": 10
+      "totalPallets": 14
     },
     {
       "id": "S3G-01-16_1f409924",
@@ -6278,26 +4985,13 @@
       "bin": "S3G-01-18",
       "lines": [
         {
-          "key": "11012233␟F062641803",
-          "material": "11012233",
-          "batch": "F062641803",
-          "palletCount": 8
+          "key": "11005963␟F232673011",
+          "material": "11005963",
+          "batch": "F232673011",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3G-01-19_16408af9",
-      "bin": "S3G-01-19",
-      "lines": [
-        {
-          "key": "11011647␟F232671002",
-          "material": "11011647",
-          "batch": "F232671002",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
+      "totalPallets": 32
     },
     {
       "id": "S3G-01-20_173e4df5",
@@ -6307,10 +5001,22 @@
           "key": "11005963␟F232672301",
           "material": "11005963",
           "batch": "F232672301",
-          "palletCount": 18
+          "palletCount": 20
+        },
+        {
+          "key": "11005963␟F232672004",
+          "material": "11005963",
+          "batch": "F232672004",
+          "palletCount": 6
+        },
+        {
+          "key": "11005963␟F232672001",
+          "material": "11005963",
+          "batch": "F232672001",
+          "palletCount": 6
         }
       ],
-      "totalPallets": 18
+      "totalPallets": 32
     },
     {
       "id": "S3G-01-21_163e4c62",
@@ -6321,9 +5027,15 @@
           "material": "11011647",
           "batch": "F232690301",
           "palletCount": 21
+        },
+        {
+          "key": "11011647␟F232670215",
+          "material": "11011647",
+          "batch": "F232670215",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 21
+      "totalPallets": 22
     },
     {
       "id": "S3G-01-22_153e4acf",
@@ -6343,13 +5055,13 @@
       "bin": "S3G-01-23",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11011478␟47W2672805",
+          "material": "11011478",
+          "batch": "47W2672805",
+          "palletCount": 16
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 16
     },
     {
       "id": "S3G-01-24_133e47a9",
@@ -6360,28 +5072,9 @@
           "material": "11011478",
           "batch": "47W2681005",
           "palletCount": 16
-        },
-        {
-          "key": "11011478␟47W2681004",
-          "material": "11011478",
-          "batch": "47W2681004",
-          "palletCount": 14
         }
       ],
-      "totalPallets": 30
-    },
-    {
-      "id": "S3G-01-25_123e4616",
-      "bin": "S3G-01-25",
-      "lines": [
-        {
-          "key": "11012233␟F062681301",
-          "material": "11012233",
-          "batch": "F062681301",
-          "palletCount": 7
-        }
-      ],
-      "totalPallets": 7
+      "totalPallets": 16
     },
     {
       "id": "S3G-01-26_113e4483",
@@ -6408,45 +5101,6 @@
         }
       ],
       "totalPallets": 26
-    },
-    {
-      "id": "S3G-01-28_1f3e5a8d",
-      "bin": "S3G-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3G-01-29_1e3e58fa",
-      "bin": "S3G-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3G-01-30_113c05ec",
-      "bin": "S3G-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3G-02-01_4516e747",
@@ -6485,19 +5139,6 @@
         }
       ],
       "totalPallets": 30
-    },
-    {
-      "id": "S3G-02-03_4716ea6d",
-      "bin": "S3G-02-03",
-      "lines": [
-        {
-          "key": "11011895␟47W2672803",
-          "material": "11011895",
-          "batch": "47W2672803",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
     },
     {
       "id": "S3G-02-04_4016df68",
@@ -6559,23 +5200,35 @@
           "key": "11011895␟47W2680301",
           "material": "11011895",
           "batch": "47W2680301",
-          "palletCount": 20
+          "palletCount": 22
+        },
+        {
+          "key": "11011895␟47W2672803",
+          "material": "11011895",
+          "batch": "47W2672803",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 20
+      "totalPallets": 30
     },
     {
       "id": "S3G-02-09_3d16daaf",
       "bin": "S3G-02-09",
       "lines": [
         {
-          "key": "11011478␟47W2680301",
-          "material": "11011478",
-          "batch": "47W2680301",
+          "key": "11007744␟F232673011",
+          "material": "11007744",
+          "batch": "F232673011",
           "palletCount": 24
+        },
+        {
+          "key": "11007744␟F232673012",
+          "material": "11007744",
+          "batch": "F232673012",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 24
+      "totalPallets": 32
     },
     {
       "id": "S3G-02-10_4a192dbd",
@@ -6586,25 +5239,6 @@
           "material": "11005963",
           "batch": "F232673001",
           "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
-      "id": "S3G-02-11_49192c2a",
-      "bin": "S3G-02-11",
-      "lines": [
-        {
-          "key": "11005963␟F232670704",
-          "material": "11005963",
-          "batch": "F232670704",
-          "palletCount": 19
-        },
-        {
-          "key": "11005963␟F232670703",
-          "material": "11005963",
-          "batch": "F232670703",
-          "palletCount": 13
         }
       ],
       "totalPallets": 32
@@ -6629,19 +5263,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3G-02-13_47192904",
-      "bin": "S3G-02-13",
-      "lines": [
-        {
-          "key": "11011647␟F322671101",
-          "material": "11011647",
-          "batch": "F322671101",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
       "id": "S3G-02-14_46192771",
       "bin": "S3G-02-14",
       "lines": [
@@ -6649,10 +5270,10 @@
           "key": "11011647␟F312672401",
           "material": "11011647",
           "batch": "F312672401",
-          "palletCount": 15
+          "palletCount": 23
         }
       ],
-      "totalPallets": 15
+      "totalPallets": 23
     },
     {
       "id": "S3G-02-15_451925de",
@@ -6678,26 +5299,13 @@
       "bin": "S3G-02-16",
       "lines": [
         {
-          "key": "11011895␟47W2672003",
-          "material": "11011895",
-          "batch": "47W2672003",
-          "palletCount": 13
+          "key": "11005963␟F232673006",
+          "material": "11005963",
+          "batch": "F232673006",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 13
-    },
-    {
-      "id": "S3G-02-17_431922b8",
-      "bin": "S3G-02-17",
-      "lines": [
-        {
-          "key": "11011647␟F312672401",
-          "material": "11011647",
-          "batch": "F312672401",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
+      "totalPallets": 32
     },
     {
       "id": "S3G-02-18_42192125",
@@ -6726,7 +5334,7 @@
           "key": "11011647␟F322671101",
           "material": "11011647",
           "batch": "F322671101",
-          "palletCount": 7
+          "palletCount": 15
         },
         {
           "key": "11011647␟F232670809",
@@ -6735,7 +5343,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 9
+      "totalPallets": 17
     },
     {
       "id": "S3G-02-20_301b4366",
@@ -6757,43 +5365,23 @@
       "totalPallets": 32
     },
     {
-      "id": "S3G-02-21_311b44f9",
-      "bin": "S3G-02-21",
-      "lines": [
-        {
-          "key": "11005963␟F232673009",
-          "material": "11005963",
-          "batch": "F232673009",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
-    },
-    {
       "id": "S3G-02-22_2e1b4040",
       "bin": "S3G-02-22",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3G-02-23_2f1b41d3",
-      "bin": "S3G-02-23",
-      "lines": [
+          "key": "11005963␟F232673006",
+          "material": "11005963",
+          "batch": "F232673006",
+          "palletCount": 25
+        },
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11005963␟F232673007",
+          "material": "11005963",
+          "batch": "F232673007",
+          "palletCount": 7
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3G-02-24_341b49b2",
@@ -6807,19 +5395,6 @@
         }
       ],
       "totalPallets": 22
-    },
-    {
-      "id": "S3G-02-25_351b4b45",
-      "bin": "S3G-02-25",
-      "lines": [
-        {
-          "key": "11007744␟47W2680303",
-          "material": "11007744",
-          "batch": "47W2680303",
-          "palletCount": 14
-        }
-      ],
-      "totalPallets": 14
     },
     {
       "id": "S3G-02-26_321b468c",
@@ -6846,45 +5421,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3G-02-28_381b4ffe",
-      "bin": "S3G-02-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3G-02-29_391b5191",
-      "bin": "S3G-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3G-02-30_b61e54ef",
-      "bin": "S3G-02-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3H-01-01_6ca3c401",
@@ -6920,7 +5456,7 @@
           "key": "11011895␟47W2680301",
           "material": "11011895",
           "batch": "47W2680301",
-          "palletCount": 8
+          "palletCount": 17
         },
         {
           "key": "11011895␟47W2680302",
@@ -6929,7 +5465,7 @@
           "palletCount": 8
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 25
     },
     {
       "id": "S3H-01-04_6fa3c8ba",
@@ -6964,19 +5500,6 @@
       "totalPallets": 15
     },
     {
-      "id": "S3H-01-06_6da3c594",
-      "bin": "S3H-01-06",
-      "lines": [
-        {
-          "key": "11010753␟F232670204",
-          "material": "11010753",
-          "batch": "F232670204",
-          "palletCount": 20
-        }
-      ],
-      "totalPallets": 20
-    },
-    {
       "id": "S3H-01-07_6ea3c727",
       "bin": "S3H-01-07",
       "lines": [
@@ -6984,10 +5507,10 @@
           "key": "11005963␟F232672902",
           "material": "11005963",
           "batch": "F232672902",
-          "palletCount": 20
+          "palletCount": 24
         }
       ],
-      "totalPallets": 20
+      "totalPallets": 24
     },
     {
       "id": "S3H-01-08_63a3b5d6",
@@ -6997,44 +5520,25 @@
           "key": "11007744␟47W2680601",
           "material": "11007744",
           "batch": "47W2680601",
-          "palletCount": 16
-        },
-        {
-          "key": "11010753␟F232671502",
-          "material": "11010753",
-          "batch": "F232671502",
-          "palletCount": 2
+          "palletCount": 18
         }
       ],
       "totalPallets": 18
-    },
-    {
-      "id": "S3H-01-09_64a3b769",
-      "bin": "S3H-01-09",
-      "lines": [
-        {
-          "key": "11007744␟F232672301",
-          "material": "11007744",
-          "batch": "F232672301",
-          "palletCount": 10
-        }
-      ],
-      "totalPallets": 10
     },
     {
       "id": "S3H-01-10_71a60a77",
       "bin": "S3H-01-10",
       "lines": [
         {
-          "key": "11011647␟F232671702",
-          "material": "11011647",
-          "batch": "F232671702",
-          "palletCount": 16
-        },
-        {
           "key": "11011647␟F322680601",
           "material": "11011647",
           "batch": "F322680601",
+          "palletCount": 16
+        },
+        {
+          "key": "11011647␟F232671702",
+          "material": "11011647",
+          "batch": "F232671702",
           "palletCount": 16
         }
       ],
@@ -7071,13 +5575,13 @@
       "bin": "S3H-01-13",
       "lines": [
         {
-          "key": "11010753␟F062642303",
-          "material": "11010753",
-          "batch": "F062642303",
-          "palletCount": 9
+          "key": "11007744␟F232673007",
+          "material": "11007744",
+          "batch": "F232673007",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 9
+      "totalPallets": 32
     },
     {
       "id": "S3H-01-14_6da6042b",
@@ -7087,10 +5591,10 @@
           "key": "11010753␟F062642303",
           "material": "11010753",
           "batch": "F062642303",
-          "palletCount": 32
+          "palletCount": 6
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 6
     },
     {
       "id": "S3H-01-15_6ca60298",
@@ -7129,26 +5633,19 @@
       "bin": "S3H-01-17",
       "lines": [
         {
-          "key": "11010753␟F232662706",
-          "material": "11010753",
-          "batch": "F232662706",
-          "palletCount": 11
-        }
-      ],
-      "totalPallets": 11
-    },
-    {
-      "id": "S3H-01-18_69a5fddf",
-      "bin": "S3H-01-18",
-      "lines": [
+          "key": "11005963␟F232673013",
+          "material": "11005963",
+          "batch": "F232673013",
+          "palletCount": 10
+        },
         {
-          "key": "11010753␟F232670204",
-          "material": "11010753",
-          "batch": "F232670204",
-          "palletCount": 20
+          "key": "11005963␟F232673010",
+          "material": "11005963",
+          "batch": "F232673010",
+          "palletCount": 3
         }
       ],
-      "totalPallets": 20
+      "totalPallets": 13
     },
     {
       "id": "S3H-01-19_68a5fc4c",
@@ -7158,10 +5655,10 @@
           "key": "11010753␟47W2672905",
           "material": "11010753",
           "batch": "47W2672905",
-          "palletCount": 16
+          "palletCount": 19
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 19
     },
     {
       "id": "S3H-01-20_5f9f325c",
@@ -7177,19 +5674,6 @@
       "totalPallets": 8
     },
     {
-      "id": "S3H-01-21_609f33ef",
-      "bin": "S3H-01-21",
-      "lines": [
-        {
-          "key": "11010753␟F232670205",
-          "material": "11010753",
-          "batch": "F232670205",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
       "id": "S3H-01-22_619f3582",
       "bin": "S3H-01-22",
       "lines": [
@@ -7197,10 +5681,10 @@
           "key": "11010753␟47W2672004",
           "material": "11010753",
           "batch": "47W2672004",
-          "palletCount": 32
+          "palletCount": 1
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 1
     },
     {
       "id": "S3H-01-23_629f3715",
@@ -7211,9 +5695,21 @@
           "material": "11005963",
           "batch": "F232673005",
           "palletCount": 20
+        },
+        {
+          "key": "11005963␟F232673003",
+          "material": "11005963",
+          "batch": "F232673003",
+          "palletCount": 6
+        },
+        {
+          "key": "11005963␟F232690302",
+          "material": "11005963",
+          "batch": "F232690302",
+          "palletCount": 6
         }
       ],
-      "totalPallets": 20
+      "totalPallets": 32
     },
     {
       "id": "S3H-01-24_5b9f2c10",
@@ -7266,45 +5762,6 @@
         }
       ],
       "totalPallets": 11
-    },
-    {
-      "id": "S3H-01-28_679f3ef4",
-      "bin": "S3H-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3H-01-29_689f4087",
-      "bin": "S3H-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3H-01-30_65a17a65",
-      "bin": "S3H-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3H-02-01_216799ca",
@@ -7672,32 +6129,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3H-02-24_8a6cbc43",
-      "bin": "S3H-02-24",
-      "lines": [
-        {
-          "key": "11010753␟F232670811",
-          "material": "11010753",
-          "batch": "F232670811",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3H-02-25_896cbab0",
-      "bin": "S3H-02-25",
-      "lines": [
-        {
-          "key": "11005963␟F232670703",
-          "material": "11005963",
-          "batch": "F232670703",
-          "palletCount": 25
-        }
-      ],
-      "totalPallets": 25
-    },
-    {
       "id": "S3H-02-26_8c6cbf69",
       "bin": "S3H-02-26",
       "lines": [
@@ -7760,16 +6191,10 @@
       "bin": "S3H-02-30",
       "lines": [
         {
-          "key": "11010753␟F232670207",
+          "key": "11010753␟F232670206",
           "material": "11010753",
-          "batch": "F232670207",
-          "palletCount": 33
-        },
-        {
-          "key": "11011647␟F232670206",
-          "material": "11011647",
           "batch": "F232670206",
-          "palletCount": 32
+          "palletCount": 7
         },
         {
           "key": "11010753␟F232670212",
@@ -7778,13 +6203,26 @@
           "palletCount": 6
         },
         {
-          "key": "11010753␟F232670206",
+          "key": "11010753␟F232670207",
           "material": "11010753",
-          "batch": "F232670206",
-          "palletCount": 2
+          "batch": "F232670207",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 73
+      "totalPallets": 14
+    },
+    {
+      "id": "S3H-02-31_896a7c19",
+      "bin": "S3H-02-31",
+      "lines": [
+        {
+          "key": "11010753␟F232670207",
+          "material": "11010753",
+          "batch": "F232670207",
+          "palletCount": 32
+        }
+      ],
+      "totalPallets": 32
     },
     {
       "id": "S3I-01-01_d026fafe",
@@ -7810,19 +6248,13 @@
           "palletCount": 8
         },
         {
-          "key": "11011647␟F232670209",
-          "material": "11011647",
-          "batch": "F232670209",
-          "palletCount": 7
-        },
-        {
           "key": "11011895␟47W2672908",
           "material": "11011895",
           "batch": "47W2672908",
           "palletCount": 4
         }
       ],
-      "totalPallets": 19
+      "totalPallets": 12
     },
     {
       "id": "S3I-01-03_ce26f7d8",
@@ -7833,9 +6265,15 @@
           "material": "11011647",
           "batch": "F232670210",
           "palletCount": 16
+        },
+        {
+          "key": "11011647␟F232670209",
+          "material": "11011647",
+          "batch": "F232670209",
+          "palletCount": 7
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 23
     },
     {
       "id": "S3I-01-04_d52702dd",
@@ -7903,26 +6341,13 @@
       "totalPallets": 8
     },
     {
-      "id": "S3I-01-09_c826ee66",
-      "bin": "S3I-01-09",
-      "lines": [
-        {
-          "key": "11011647␟F232670203",
-          "material": "11011647",
-          "batch": "F232670203",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
       "id": "S3I-01-10_cb24b488",
       "bin": "S3I-01-10",
       "lines": [
         {
-          "key": "11011895␟47W2672003",
-          "material": "11011895",
-          "batch": "47W2672003",
+          "key": "11007744␟47W2681006",
+          "material": "11007744",
+          "batch": "47W2681006",
           "palletCount": 32
         }
       ],
@@ -7933,35 +6358,41 @@
       "bin": "S3I-01-11",
       "lines": [
         {
+          "key": "11011647␟F232671002",
+          "material": "11011647",
+          "batch": "F232671002",
+          "palletCount": 15
+        },
+        {
           "key": "11011647␟F232671001",
           "material": "11011647",
           "batch": "F232671001",
           "palletCount": 14
-        },
-        {
-          "key": "11011647␟F232671002",
-          "material": "11011647",
-          "batch": "F232671002",
-          "palletCount": 7
         }
       ],
-      "totalPallets": 21
+      "totalPallets": 29
     },
     {
       "id": "S3I-01-12_cd24b7ae",
       "bin": "S3I-01-12",
       "lines": [
         {
-          "key": "11011647␟F232670202",
-          "material": "11011647",
-          "batch": "F232670202",
-          "palletCount": 31
+          "key": "11007744␟F232673010",
+          "material": "11007744",
+          "batch": "F232673010",
+          "palletCount": 19
         },
         {
-          "key": "11011647␟F232671401",
-          "material": "11011647",
-          "batch": "F232671401",
-          "palletCount": 1
+          "key": "11007744␟F232673009",
+          "material": "11007744",
+          "batch": "F232673009",
+          "palletCount": 7
+        },
+        {
+          "key": "11007744␟F232673012",
+          "material": "11007744",
+          "batch": "F232673012",
+          "palletCount": 6
         }
       ],
       "totalPallets": 32
@@ -7971,13 +6402,13 @@
       "bin": "S3I-01-13",
       "lines": [
         {
-          "key": "11005963␟F232672001",
+          "key": "11005963␟F232673009",
           "material": "11005963",
-          "batch": "F232672001",
-          "palletCount": 8
+          "batch": "F232673009",
+          "palletCount": 6
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 6
     },
     {
       "id": "S3I-01-14_cf24bad4",
@@ -8023,10 +6454,16 @@
       "bin": "S3I-01-17",
       "lines": [
         {
-          "key": "11007744␟47W2672904",
-          "material": "11007744",
-          "batch": "47W2672904",
-          "palletCount": 13
+          "key": "11012233␟F062680602",
+          "material": "11012233",
+          "batch": "F062680602",
+          "palletCount": 12
+        },
+        {
+          "key": "11012233␟F062681501",
+          "material": "11012233",
+          "batch": "F062681501",
+          "palletCount": 1
         }
       ],
       "totalPallets": 13
@@ -8036,13 +6473,13 @@
       "bin": "S3I-01-18",
       "lines": [
         {
-          "key": "11011478␟47W2672904",
-          "material": "11011478",
-          "batch": "47W2672904",
-          "palletCount": 9
+          "key": "11007744␟F232673006",
+          "material": "11007744",
+          "batch": "F232673006",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 9
+      "totalPallets": 32
     },
     {
       "id": "S3I-01-19_c424a983",
@@ -8058,32 +6495,6 @@
       "totalPallets": 26
     },
     {
-      "id": "S3I-01-20_3d2c23c3",
-      "bin": "S3I-01-20",
-      "lines": [
-        {
-          "key": "11011895␟47W2672003",
-          "material": "11011895",
-          "batch": "47W2672003",
-          "palletCount": 13
-        }
-      ],
-      "totalPallets": 13
-    },
-    {
-      "id": "S3I-01-21_3c2c2230",
-      "bin": "S3I-01-21",
-      "lines": [
-        {
-          "key": "11012233␟F062681502",
-          "material": "11012233",
-          "batch": "F062681502",
-          "palletCount": 5
-        }
-      ],
-      "totalPallets": 5
-    },
-    {
       "id": "S3I-01-22_3f2c26e9",
       "bin": "S3I-01-22",
       "lines": [
@@ -8091,10 +6502,10 @@
           "key": "11010753␟F062680602",
           "material": "11010753",
           "batch": "F062680602",
-          "palletCount": 2
+          "palletCount": 30
         }
       ],
-      "totalPallets": 2
+      "totalPallets": 30
     },
     {
       "id": "S3I-01-23_3e2c2556",
@@ -8127,15 +6538,15 @@
       "bin": "S3I-01-25",
       "lines": [
         {
-          "key": "11011647␟F322671102",
-          "material": "11011647",
-          "batch": "F322671102",
-          "palletCount": 16
-        },
-        {
           "key": "11011647␟F322671103",
           "material": "11011647",
           "batch": "F322671103",
+          "palletCount": 16
+        },
+        {
+          "key": "11011647␟F322671102",
+          "material": "11011647",
+          "batch": "F322671102",
           "palletCount": 16
         }
       ],
@@ -8159,64 +6570,25 @@
       "bin": "S3I-01-27",
       "lines": [
         {
-          "key": "11005963␟F232673006",
-          "material": "11005963",
-          "batch": "F232673006",
+          "key": "11012233␟F062681701",
+          "material": "11012233",
+          "batch": "F062681701",
+          "palletCount": 25
+        },
+        {
+          "key": "11012233␟F062681502",
+          "material": "11012233",
+          "batch": "F062681502",
+          "palletCount": 4
+        },
+        {
+          "key": "11012233␟F062680801",
+          "material": "11012233",
+          "batch": "F062680801",
           "palletCount": 3
-        },
-        {
-          "key": "11005963␟F232672901",
-          "material": "11005963",
-          "batch": "F232672901",
-          "palletCount": 1
-        },
-        {
-          "key": "11011647␟F232670202",
-          "material": "11011647",
-          "batch": "F232670202",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 5
-    },
-    {
-      "id": "S3I-01-28_452c305b",
-      "bin": "S3I-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3I-01-29_442c2ec8",
-      "bin": "S3I-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3I-01-30_572a0e1a",
-      "bin": "S3I-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3I-02-01_9b143cd5",
@@ -8249,13 +6621,13 @@
       "bin": "S3I-02-03",
       "lines": [
         {
-          "key": "11011647␟F232670202",
-          "material": "11011647",
-          "batch": "F232670202",
-          "palletCount": 7
+          "key": "11012233␟F062680801",
+          "material": "11012233",
+          "batch": "F062680801",
+          "palletCount": 5
         }
       ],
-      "totalPallets": 7
+      "totalPallets": 5
     },
     {
       "id": "S3I-02-04_961434f6",
@@ -8269,19 +6641,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3I-02-05_97143689",
-      "bin": "S3I-02-05",
-      "lines": [
-        {
-          "key": "11012233␟F062680301",
-          "material": "11012233",
-          "batch": "F062680301",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
     },
     {
       "id": "S3I-02-06_941431d0",
@@ -8300,32 +6659,19 @@
           "palletCount": 2
         },
         {
-          "key": "11011895␟47W2672905",
-          "material": "11011895",
-          "batch": "47W2672905",
-          "palletCount": 1
-        },
-        {
           "key": "11011895␟47W2680401",
           "material": "11011895",
           "batch": "47W2680401",
           "palletCount": 1
+        },
+        {
+          "key": "11011895␟47W2672905",
+          "material": "11011895",
+          "batch": "47W2672905",
+          "palletCount": 1
         }
       ],
       "totalPallets": 29
-    },
-    {
-      "id": "S3I-02-07_95143363",
-      "bin": "S3I-02-07",
-      "lines": [
-        {
-          "key": "11005963␟F232673003",
-          "material": "11005963",
-          "batch": "F232673003",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
     },
     {
       "id": "S3I-02-08_a21447da",
@@ -8345,13 +6691,13 @@
       "bin": "S3I-02-09",
       "lines": [
         {
-          "key": "11011647␟F232662706",
-          "material": "11011647",
-          "batch": "F232662706",
-          "palletCount": 28
+          "key": "11012233␟F062681502",
+          "material": "11012233",
+          "batch": "F062681502",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 28
+      "totalPallets": 32
     },
     {
       "id": "S3I-02-10_a016834b",
@@ -8361,45 +6707,6 @@
           "key": "11010753␟F322671102",
           "material": "11010753",
           "batch": "F322671102",
-          "palletCount": 30
-        }
-      ],
-      "totalPallets": 30
-    },
-    {
-      "id": "S3I-02-11_9f1681b8",
-      "bin": "S3I-02-11",
-      "lines": [
-        {
-          "key": "11007744␟47W2681005",
-          "material": "11007744",
-          "batch": "47W2681005",
-          "palletCount": 30
-        }
-      ],
-      "totalPallets": 30
-    },
-    {
-      "id": "S3I-02-12_a2168671",
-      "bin": "S3I-02-12",
-      "lines": [
-        {
-          "key": "11011647␟F232670206",
-          "material": "11011647",
-          "batch": "F232670206",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3I-02-13_a11684de",
-      "bin": "S3I-02-13",
-      "lines": [
-        {
-          "key": "11005963␟F232670704",
-          "material": "11005963",
-          "batch": "F232670704",
           "palletCount": 30
         }
       ],
@@ -8423,15 +6730,15 @@
       "bin": "S3I-02-15",
       "lines": [
         {
-          "key": "11011647␟F232671401",
-          "material": "11011647",
-          "batch": "F232671401",
-          "palletCount": 16
-        },
-        {
           "key": "11011647␟F232671402",
           "material": "11011647",
           "batch": "F232671402",
+          "palletCount": 16
+        },
+        {
+          "key": "11011647␟F232671401",
+          "material": "11011647",
+          "batch": "F232671401",
           "palletCount": 16
         }
       ],
@@ -8485,9 +6792,15 @@
           "material": "11012233",
           "batch": "F062671605",
           "palletCount": 16
+        },
+        {
+          "key": "11012233␟F062680301",
+          "material": "11012233",
+          "batch": "F062680301",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 24
     },
     {
       "id": "S3I-02-20_e0ee1b0",
@@ -8533,13 +6846,13 @@
       "bin": "S3I-02-23",
       "lines": [
         {
-          "key": "11011895␟47W2672003",
-          "material": "11011895",
-          "batch": "47W2672003",
-          "palletCount": 6
+          "key": "11007744␟F232673006",
+          "material": "11007744",
+          "batch": "F232673006",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 32
     },
     {
       "id": "S3I-02-24_120ee7fc",
@@ -8568,19 +6881,6 @@
       "totalPallets": 30
     },
     {
-      "id": "S3I-02-26_140eeb22",
-      "bin": "S3I-02-26",
-      "lines": [
-        {
-          "key": "11005963␟F232690302",
-          "material": "11005963",
-          "batch": "F232690302",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
-    },
-    {
       "id": "S3I-02-27_150eecb5",
       "bin": "S3I-02-27",
       "lines": [
@@ -8601,10 +6901,10 @@
           "key": "11010753␟47W2672801",
           "material": "11010753",
           "batch": "47W2672801",
-          "palletCount": 12
+          "palletCount": 29
         }
       ],
-      "totalPallets": 12
+      "totalPallets": 29
     },
     {
       "id": "S3I-02-29_170eefdb",
@@ -8634,15 +6934,9 @@
           "material": "11010753",
           "batch": "F232671501",
           "palletCount": 32
-        },
-        {
-          "key": "11010753␟F232670210",
-          "material": "11010753",
-          "batch": "F232670210",
-          "palletCount": 20
         }
       ],
-      "totalPallets": 84
+      "totalPallets": 64
     },
     {
       "id": "S3J-01-01_24ae425b",
@@ -8671,10 +6965,10 @@
           "key": "11011895␟47W2681103",
           "material": "11011895",
           "batch": "47W2681103",
-          "palletCount": 17
+          "palletCount": 8
         }
       ],
-      "totalPallets": 17
+      "totalPallets": 8
     },
     {
       "id": "S3J-01-03_26ae4581",
@@ -8697,10 +6991,10 @@
           "key": "11010753␟F322671103",
           "material": "11010753",
           "batch": "F322671103",
-          "palletCount": 8
+          "palletCount": 16
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 16
     },
     {
       "id": "S3J-01-05_28ae48a7",
@@ -8743,15 +7037,9 @@
           "material": "11010753",
           "batch": "47W2672806",
           "palletCount": 23
-        },
-        {
-          "key": "11010753␟47W2672801",
-          "material": "11010753",
-          "batch": "47W2672801",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 24
+      "totalPallets": 23
     },
     {
       "id": "S3J-01-08_1bae3430",
@@ -8788,15 +7076,9 @@
           "material": "11007744",
           "batch": "F232671501",
           "palletCount": 24
-        },
-        {
-          "key": "11007744␟F232690301",
-          "material": "11007744",
-          "batch": "F232690301",
-          "palletCount": 7
         }
       ],
-      "totalPallets": 31
+      "totalPallets": 24
     },
     {
       "id": "S3J-01-11_28b0873e",
@@ -8842,19 +7124,13 @@
       "bin": "S3J-01-14",
       "lines": [
         {
-          "key": "11010753␟F232671105",
-          "material": "11010753",
-          "batch": "F232671105",
-          "palletCount": 22
-        },
-        {
           "key": "11010753␟F232671502",
           "material": "11010753",
           "batch": "F232671502",
           "palletCount": 2
         }
       ],
-      "totalPallets": 24
+      "totalPallets": 2
     },
     {
       "id": "S3J-01-15_2cb08d8a",
@@ -8865,9 +7141,15 @@
           "material": "11005963",
           "batch": "F232672302",
           "palletCount": 21
+        },
+        {
+          "key": "11005963␟F232680401",
+          "material": "11005963",
+          "batch": "F232680401",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 21
+      "totalPallets": 22
     },
     {
       "id": "S3J-01-16_2bb08bf7",
@@ -8909,10 +7191,10 @@
           "key": "11012233␟F062680801",
           "material": "11012233",
           "batch": "F062680801",
-          "palletCount": 16
+          "palletCount": 32
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 32
     },
     {
       "id": "S3J-01-19_20b07aa6",
@@ -8999,19 +7281,6 @@
       "totalPallets": 28
     },
     {
-      "id": "S3J-01-25_acb395a1",
-      "bin": "S3J-01-25",
-      "lines": [
-        {
-          "key": "11010753␟F232670202",
-          "material": "11010753",
-          "batch": "F232670202",
-          "palletCount": 7
-        }
-      ],
-      "totalPallets": 7
-    },
-    {
       "id": "S3J-01-26_a9b390e8",
       "bin": "S3J-01-26",
       "lines": [
@@ -9038,45 +7307,6 @@
       "totalPallets": 30
     },
     {
-      "id": "S3J-01-28_a7b38dc2",
-      "bin": "S3J-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3J-01-29_a8b38f55",
-      "bin": "S3J-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3J-01-30_95b5b003",
-      "bin": "S3J-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3J-02-01_18c18a8",
       "bin": "S3J-02-01",
       "lines": [
@@ -9097,10 +7327,10 @@
           "key": "11012425␟F232671401",
           "material": "11012425",
           "batch": "F232671401",
-          "palletCount": 8
+          "palletCount": 16
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 16
     },
     {
       "id": "S3J-02-03_38c1bce",
@@ -9133,18 +7363,24 @@
       "bin": "S3J-02-05",
       "lines": [
         {
-          "key": "11011647␟F312672402",
-          "material": "11011647",
-          "batch": "F312672402",
-          "palletCount": 5
+          "key": "11010753␟F322680301",
+          "material": "11010753",
+          "batch": "F322680301",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 8
     },
     {
       "id": "S3J-02-06_88c23ad",
       "bin": "S3J-02-06",
       "lines": [
+        {
+          "key": "11007744␟F232672301",
+          "material": "11007744",
+          "batch": "F232672301",
+          "palletCount": 10
+        },
         {
           "key": "11007744␟F232672005",
           "material": "11007744",
@@ -9158,7 +7394,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 12
+      "totalPallets": 22
     },
     {
       "id": "S3J-02-07_78c221a",
@@ -9172,19 +7408,6 @@
         }
       ],
       "totalPallets": 14
-    },
-    {
-      "id": "S3J-02-08_fa8c0da3",
-      "bin": "S3J-02-08",
-      "lines": [
-        {
-          "key": "11007744␟F232690301",
-          "material": "11007744",
-          "batch": "F232690301",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
     },
     {
       "id": "S3J-02-09_f98c0c10",
@@ -9204,16 +7427,10 @@
       "bin": "S3J-02-10",
       "lines": [
         {
-          "key": "11007744␟F232670704",
-          "material": "11007744",
-          "batch": "F232670704",
-          "palletCount": 11
-        },
-        {
           "key": "11007744␟F232671301",
           "material": "11007744",
           "batch": "F232671301",
-          "palletCount": 11
+          "palletCount": 18
         },
         {
           "key": "11007744␟F232673005",
@@ -9222,7 +7439,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 23
+      "totalPallets": 19
     },
     {
       "id": "S3J-02-11_7d890a45",
@@ -9257,19 +7474,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3J-02-13_7b89071f",
-      "bin": "S3J-02-13",
-      "lines": [
-        {
-          "key": "11007744␟F232673009",
-          "material": "11007744",
-          "batch": "F232673009",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
-    },
-    {
       "id": "S3J-02-14_78890266",
       "bin": "S3J-02-14",
       "lines": [
@@ -9287,15 +7491,15 @@
       "bin": "S3J-02-15",
       "lines": [
         {
-          "key": "11011647␟F232671104",
-          "material": "11011647",
-          "batch": "F232671104",
-          "palletCount": 8
-        },
-        {
           "key": "11011647␟F232671106",
           "material": "11011647",
           "batch": "F232671106",
+          "palletCount": 8
+        },
+        {
+          "key": "11011647␟F232671104",
+          "material": "11011647",
+          "batch": "F232671104",
           "palletCount": 8
         },
         {
@@ -9311,19 +7515,19 @@
           "palletCount": 3
         },
         {
-          "key": "11011647␟F232671002",
-          "material": "11011647",
-          "batch": "F232671002",
-          "palletCount": 2
-        },
-        {
           "key": "11011647␟F232671105",
           "material": "11011647",
           "batch": "F232671105",
           "palletCount": 2
+        },
+        {
+          "key": "11011647␟F232671002",
+          "material": "11011647",
+          "batch": "F232671002",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 29
+      "totalPallets": 28
     },
     {
       "id": "S3J-02-16_7688ff40",
@@ -9391,10 +7595,10 @@
           "key": "11011895␟47W2672901",
           "material": "11011895",
           "batch": "47W2672901",
-          "palletCount": 14
+          "palletCount": 30
         }
       ],
-      "totalPallets": 14
+      "totalPallets": 30
     },
     {
       "id": "S3J-02-21_7586bf16",
@@ -9426,13 +7630,13 @@
       "bin": "S3J-02-22",
       "lines": [
         {
-          "key": "11010753␟F252671002",
+          "key": "11010753␟F062661201",
           "material": "11010753",
-          "batch": "F252671002",
-          "palletCount": 5
+          "batch": "F062661201",
+          "palletCount": 26
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 26
     },
     {
       "id": "S3J-02-23_7386bbf0",
@@ -9464,9 +7668,9 @@
       "bin": "S3J-02-24",
       "lines": [
         {
-          "key": "11010753␟F322680301",
-          "material": "11010753",
-          "batch": "F322680301",
+          "key": "11011647␟F312672402",
+          "material": "11011647",
+          "batch": "F312672402",
           "palletCount": 8
         },
         {
@@ -9474,15 +7678,9 @@
           "material": "11011647",
           "batch": "F312672401",
           "palletCount": 7
-        },
-        {
-          "key": "11011647␟F312672402",
-          "material": "11011647",
-          "batch": "F312672402",
-          "palletCount": 3
         }
       ],
-      "totalPallets": 18
+      "totalPallets": 15
     },
     {
       "id": "S3J-02-25_7986c562",
@@ -9524,45 +7722,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3J-02-28_7e86cd41",
-      "bin": "S3J-02-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3J-02-29_7d86cbae",
-      "bin": "S3J-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3J-02-30_708478a0",
-      "bin": "S3J-02-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3K-01-01_d9a0f600",
       "bin": "S3K-01-01",
       "lines": [
@@ -9589,10 +7748,16 @@
           "key": "11011647␟F232670806",
           "material": "11011647",
           "batch": "F232670806",
-          "palletCount": 10
+          "palletCount": 12
+        },
+        {
+          "key": "11011647␟F232670701",
+          "material": "11011647",
+          "batch": "F232670701",
+          "palletCount": 2
         }
       ],
-      "totalPallets": 10
+      "totalPallets": 14
     },
     {
       "id": "S3K-01-03_dba0f926",
@@ -9603,20 +7768,20 @@
           "material": "11012233",
           "batch": "F062650401",
           "palletCount": 7
+        },
+        {
+          "key": "11012233␟F062680601",
+          "material": "11012233",
+          "batch": "F062680601",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 7
+      "totalPallets": 8
     },
     {
       "id": "S3K-01-04_dea0fddf",
       "bin": "S3K-01-04",
       "lines": [
-        {
-          "key": "11007744␟F232670704",
-          "material": "11007744",
-          "batch": "F232670704",
-          "palletCount": 30
-        },
         {
           "key": "11007744␟F232671501",
           "material": "11007744",
@@ -9630,7 +7795,7 @@
           "palletCount": 1
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 2
     },
     {
       "id": "S3K-01-05_dda0fc4c",
@@ -9720,38 +7885,13 @@
       "bin": "S3K-01-10",
       "lines": [
         {
-          "key": "11007744␟F232670701",
-          "material": "11007744",
-          "batch": "F232670701",
-          "palletCount": 14
-        },
-        {
-          "key": "11005963␟F232671001",
-          "material": "11005963",
-          "batch": "F232671001",
-          "palletCount": 4
-        },
-        {
-          "key": "11007744␟F232670704",
-          "material": "11007744",
-          "batch": "F232670704",
-          "palletCount": 1
+          "key": "11012233␟F062681501",
+          "material": "11012233",
+          "batch": "F062681501",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 19
-    },
-    {
-      "id": "S3K-01-11_f59ee37d",
-      "bin": "S3K-01-11",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3K-01-12_f29edec4",
@@ -9790,13 +7930,13 @@
       "bin": "S3K-01-14",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062660201",
+          "material": "11010753",
+          "batch": "F062660201",
+          "palletCount": 26
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 26
     },
     {
       "id": "S3K-01-15_f19edd31",
@@ -9806,10 +7946,10 @@
           "key": "11010753␟47W2672301",
           "material": "11010753",
           "batch": "47W2672301",
-          "palletCount": 8
+          "palletCount": 12
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 12
     },
     {
       "id": "S3K-01-16_ee9ed878",
@@ -9848,19 +7988,6 @@
         }
       ],
       "totalPallets": 24
-    },
-    {
-      "id": "S3K-01-18_ec9ed552",
-      "bin": "S3K-01-18",
-      "lines": [
-        {
-          "key": "11005963␟F232670703",
-          "material": "11005963",
-          "batch": "F232670703",
-          "palletCount": 14
-        }
-      ],
-      "totalPallets": 14
     },
     {
       "id": "S3K-01-19_ed9ed6e5",
@@ -9925,13 +8052,13 @@
       "bin": "S3K-01-23",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062681301",
+          "material": "11010753",
+          "batch": "F062681301",
+          "palletCount": 6
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 6
     },
     {
       "id": "S3K-01-24_f29ca02d",
@@ -9992,45 +8119,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3K-01-28_e69c8d49",
-      "bin": "S3K-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3K-01-29_e59c8bb6",
-      "bin": "S3K-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3K-01-30_68998858",
-      "bin": "S3K-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3K-02-01_603cccf3",
       "bin": "S3K-02-01",
       "lines": [
@@ -10076,10 +8164,10 @@
           "key": "11005963␟F232672902",
           "material": "11005963",
           "batch": "F232672902",
-          "palletCount": 6
+          "palletCount": 5
         }
       ],
-      "totalPallets": 18
+      "totalPallets": 17
     },
     {
       "id": "S3K-02-04_633cd1ac",
@@ -10093,19 +8181,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3K-02-05_643cd33f",
-      "bin": "S3K-02-05",
-      "lines": [
-        {
-          "key": "11007744␟47W2680301",
-          "material": "11007744",
-          "batch": "47W2680301",
-          "palletCount": 22
-        }
-      ],
-      "totalPallets": 22
     },
     {
       "id": "S3K-02-06_653cd4d2",
@@ -10138,32 +8213,6 @@
         }
       ],
       "totalPallets": 17
-    },
-    {
-      "id": "S3K-02-08_673cd7f8",
-      "bin": "S3K-02-08",
-      "lines": [
-        {
-          "key": "11011895␟47W2672901",
-          "material": "11011895",
-          "batch": "47W2672901",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3K-02-09_683cd98b",
-      "bin": "S3K-02-09",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3K-02-10_653f1369",
@@ -10256,19 +8305,6 @@
       "totalPallets": 6
     },
     {
-      "id": "S3K-02-16_673f168f",
-      "bin": "S3K-02-16",
-      "lines": [
-        {
-          "key": "11011895␟47W2680301",
-          "material": "11011895",
-          "batch": "47W2680301",
-          "palletCount": 9
-        }
-      ],
-      "totalPallets": 9
-    },
-    {
       "id": "S3K-02-17_663f14fc",
       "bin": "S3K-02-17",
       "lines": [
@@ -10286,19 +8322,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3K-02-18_6d3f2001",
-      "bin": "S3K-02-18",
-      "lines": [
-        {
-          "key": "11007744␟F232671301",
-          "material": "11007744",
-          "batch": "F232671301",
-          "palletCount": 4
-        }
-      ],
-      "totalPallets": 4
     },
     {
       "id": "S3K-02-19_6c3f1e6e",
@@ -10359,19 +8382,6 @@
       "totalPallets": 30
     },
     {
-      "id": "S3K-02-23_6a4159df",
-      "bin": "S3K-02-23",
-      "lines": [
-        {
-          "key": "11011647␟F232670702",
-          "material": "11011647",
-          "batch": "F232670702",
-          "palletCount": 4
-        }
-      ],
-      "totalPallets": 4
-    },
-    {
       "id": "S3K-02-24_67415526",
       "bin": "S3K-02-24",
       "lines": [
@@ -10398,10 +8408,10 @@
           "key": "11011647␟F232670702",
           "material": "11011647",
           "batch": "F232670702",
-          "palletCount": 9
+          "palletCount": 17
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 40
     },
     {
       "id": "S3K-02-26_65415200",
@@ -10424,49 +8434,10 @@
           "key": "11011647␟F232670702",
           "material": "11011647",
           "batch": "F232670702",
-          "palletCount": 25
+          "palletCount": 31
         }
       ],
-      "totalPallets": 25
-    },
-    {
-      "id": "S3K-02-28_7341680a",
-      "bin": "S3K-02-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3K-02-29_7441699d",
-      "bin": "S3K-02-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3K-02-30_f1446cfb",
-      "bin": "S3K-02-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 31
     },
     {
       "id": "S3L-01-01_6b92724d",
@@ -10486,19 +8457,13 @@
       "bin": "S3L-01-02",
       "lines": [
         {
-          "key": "11011478␟47W2680303",
-          "material": "11011478",
-          "batch": "47W2680303",
-          "palletCount": 16
-        },
-        {
           "key": "11011478␟47W2680401",
           "material": "11011478",
           "batch": "47W2680401",
           "palletCount": 3
         }
       ],
-      "totalPallets": 19
+      "totalPallets": 3
     },
     {
       "id": "S3L-01-03_69926f27",
@@ -10544,32 +8509,32 @@
       "bin": "S3L-01-06",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062681501",
+          "material": "11010753",
+          "batch": "F062681501",
+          "palletCount": 24
+        },
+        {
+          "key": "11010753␟F062661201",
+          "material": "11010753",
+          "batch": "F062661201",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 25
     },
     {
       "id": "S3L-01-07_659268db",
       "bin": "S3L-01-07",
       "lines": [
         {
-          "key": "11011895␟47W2671705",
+          "key": "11011895␟47W2672906",
           "material": "11011895",
-          "batch": "47W2671705",
-          "palletCount": 8
-        },
-        {
-          "key": "11011895␟47W2672002",
-          "material": "11011895",
-          "batch": "47W2672002",
-          "palletCount": 5
+          "batch": "47W2672906",
+          "palletCount": 16
         }
       ],
-      "totalPallets": 13
+      "totalPallets": 16
     },
     {
       "id": "S3L-01-08_62926422",
@@ -10606,15 +8571,9 @@
           "material": "11011895",
           "batch": "47W2680402",
           "palletCount": 32
-        },
-        {
-          "key": "11005963␟F232671001",
-          "material": "11005963",
-          "batch": "F232671001",
-          "palletCount": 2
         }
       ],
-      "totalPallets": 34
+      "totalPallets": 32
     },
     {
       "id": "S3L-01-11_cf954e50",
@@ -10637,10 +8596,10 @@
           "key": "11005963␟F232671001",
           "material": "11005963",
           "batch": "F232671001",
-          "palletCount": 18
+          "palletCount": 24
         }
       ],
-      "totalPallets": 18
+      "totalPallets": 24
     },
     {
       "id": "S3L-01-13_d1955176",
@@ -10660,13 +8619,19 @@
       "bin": "S3L-01-14",
       "lines": [
         {
-          "key": "11005963␟F232670704",
-          "material": "11005963",
-          "batch": "F232670704",
-          "palletCount": 3
+          "key": "11010753␟F062661201",
+          "material": "11010753",
+          "batch": "F062661201",
+          "palletCount": 5
+        },
+        {
+          "key": "11010753␟F062681301",
+          "material": "11010753",
+          "batch": "F062681301",
+          "palletCount": 2
         }
       ],
-      "totalPallets": 3
+      "totalPallets": 7
     },
     {
       "id": "S3L-01-15_d395549c",
@@ -10695,19 +8660,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3L-01-17_d59557c2",
-      "bin": "S3L-01-17",
-      "lines": [
-        {
-          "key": "11011647␟F232670205",
-          "material": "11011647",
-          "batch": "F232670205",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
       "id": "S3L-01-18_d8955c7b",
       "bin": "S3L-01-18",
       "lines": [
@@ -10725,13 +8677,19 @@
       "bin": "S3L-01-19",
       "lines": [
         {
-          "key": "11007744␟47W2672805",
-          "material": "11007744",
-          "batch": "47W2672805",
+          "key": "11005963␟F232673010",
+          "material": "11005963",
+          "batch": "F232673010",
+          "palletCount": 20
+        },
+        {
+          "key": "11005963␟F232673009",
+          "material": "11005963",
+          "batch": "F232673009",
           "palletCount": 11
         }
       ],
-      "totalPallets": 11
+      "totalPallets": 31
     },
     {
       "id": "S3L-01-20_5e8de0a8",
@@ -10761,15 +8719,9 @@
           "material": "11011895",
           "batch": "47W2672301",
           "palletCount": 4
-        },
-        {
-          "key": "11011478␟47W2681004",
-          "material": "11011478",
-          "batch": "47W2681004",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 4
     },
     {
       "id": "S3L-01-22_608de3ce",
@@ -10793,22 +8745,15 @@
           "material": "11011895",
           "batch": "47W2672301",
           "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3L-01-24_628de6f4",
-      "bin": "S3L-01-24",
-      "lines": [
+        },
         {
-          "key": "11011895␟47W2672005",
+          "key": "11011895␟47W2680501",
           "material": "11011895",
-          "batch": "47W2672005",
-          "palletCount": 8
+          "batch": "47W2680501",
+          "palletCount": 2
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 10
     },
     {
       "id": "S3L-01-25_638de887",
@@ -10828,13 +8773,13 @@
       "bin": "S3L-01-26",
       "lines": [
         {
-          "key": "11005963␟F232670702",
-          "material": "11005963",
-          "batch": "F232670702",
-          "palletCount": 5
+          "key": "11011478␟47W2681006",
+          "material": "11011478",
+          "batch": "47W2681006",
+          "palletCount": 6
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 6
     },
     {
       "id": "S3L-01-27_658debad",
@@ -10850,45 +8795,6 @@
       "totalPallets": 16
     },
     {
-      "id": "S3L-01-28_568dd410",
-      "bin": "S3L-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3L-01-29_578dd5a3",
-      "bin": "S3L-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3L-01-30_649028b1",
-      "bin": "S3L-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3L-02-01_8056df36",
       "bin": "S3L-02-01",
       "lines": [
@@ -10897,15 +8803,9 @@
           "material": "11011647",
           "batch": "F232670706",
           "palletCount": 19
-        },
-        {
-          "key": "11011647␟F232670206",
-          "material": "11011647",
-          "batch": "F232670206",
-          "palletCount": 8
         }
       ],
-      "totalPallets": 27
+      "totalPallets": 19
     },
     {
       "id": "S3L-02-02_7f56dda3",
@@ -10919,19 +8819,6 @@
         }
       ],
       "totalPallets": 22
-    },
-    {
-      "id": "S3L-02-03_7e56dc10",
-      "bin": "S3L-02-03",
-      "lines": [
-        {
-          "key": "11011647␟F232670702",
-          "material": "11011647",
-          "batch": "F232670702",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
     },
     {
       "id": "S3L-02-04_8556e715",
@@ -11039,26 +8926,14 @@
           "material": "11010753",
           "batch": "47W2680301",
           "palletCount": 16
-        },
-        {
-          "key": "11010753␟47W2672801",
-          "material": "11010753",
-          "batch": "47W2672801",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 17
+      "totalPallets": 16
     },
     {
       "id": "S3L-02-12_fd53d266",
       "bin": "S3L-02-12",
       "lines": [
-        {
-          "key": "11010753␟F232671104",
-          "material": "11010753",
-          "batch": "F232671104",
-          "palletCount": 30
-        },
         {
           "key": "11010753␟F232671001",
           "material": "11010753",
@@ -11066,20 +8941,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 32
-    },
-    {
-      "id": "S3L-02-13_fe53d3f9",
-      "bin": "S3L-02-13",
-      "lines": [
-        {
-          "key": "11007744␟47W2680303",
-          "material": "11007744",
-          "batch": "47W2680303",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
+      "totalPallets": 2
     },
     {
       "id": "S3L-02-14_ff53d58c",
@@ -11118,13 +8980,19 @@
       "bin": "S3L-02-16",
       "lines": [
         {
-          "key": "11011478␟47W2672904",
-          "material": "11011478",
-          "batch": "47W2672904",
-          "palletCount": 5
+          "key": "11007744␟47W2681007",
+          "material": "11007744",
+          "batch": "47W2681007",
+          "palletCount": 13
+        },
+        {
+          "key": "11007744␟47W2681006",
+          "material": "11007744",
+          "batch": "47W2681006",
+          "palletCount": 7
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 20
     },
     {
       "id": "S3L-02-17_253da45",
@@ -11160,21 +9028,15 @@
           "key": "11007744␟F232673009",
           "material": "11007744",
           "batch": "F232673009",
-          "palletCount": 12
+          "palletCount": 29
         }
       ],
-      "totalPallets": 12
+      "totalPallets": 29
     },
     {
       "id": "S3L-02-20_8d5b70db",
       "bin": "S3L-02-20",
       "lines": [
-        {
-          "key": "11010753␟F232670202",
-          "material": "11010753",
-          "batch": "F232670202",
-          "palletCount": 4
-        },
         {
           "key": "11007744␟F232673002",
           "material": "11007744",
@@ -11188,7 +9050,7 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 9
+      "totalPallets": 5
     },
     {
       "id": "S3L-02-21_8c5b6f48",
@@ -11246,13 +9108,13 @@
       "bin": "S3L-02-24",
       "lines": [
         {
-          "key": "11010753␟47W2672001",
-          "material": "11010753",
-          "batch": "47W2672001",
-          "palletCount": 4
+          "key": "11007744␟F232673010",
+          "material": "11007744",
+          "batch": "F232673010",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 4
+      "totalPallets": 32
     },
     {
       "id": "S3L-02-25_905b7594",
@@ -11266,19 +9128,6 @@
         }
       ],
       "totalPallets": 26
-    },
-    {
-      "id": "S3L-02-26_935b7a4d",
-      "bin": "S3L-02-26",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3L-02-27_925b78ba",
@@ -11311,13 +9160,13 @@
       "bin": "S3L-02-29",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062680301",
+          "material": "11010753",
+          "batch": "F062680301",
+          "palletCount": 31
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 31
     },
     {
       "id": "S3L-02-30_875928d2",
@@ -11333,43 +9182,17 @@
       "totalPallets": 32
     },
     {
-      "id": "S3L-02-31_88592a65",
-      "bin": "S3L-02-31",
-      "lines": [
-        {
-          "key": "11007744␟47W2680304",
-          "material": "11007744",
-          "batch": "47W2680304",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
       "id": "S3L-02-32_855925ac",
       "bin": "S3L-02-32",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟47W2680601",
+          "material": "11010753",
+          "batch": "47W2680601",
+          "palletCount": 14
         }
       ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3L-02-33_8659273f",
-      "bin": "S3L-02-33",
-      "lines": [
-        {
-          "key": "11007744␟47W2680304",
-          "material": "11007744",
-          "batch": "47W2680304",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
+      "totalPallets": 14
     },
     {
       "id": "S3M-01-01_d6185c4a",
@@ -11396,19 +9219,6 @@
         }
       ],
       "totalPallets": 5
-    },
-    {
-      "id": "S3M-01-03_d4185924",
-      "bin": "S3M-01-03",
-      "lines": [
-        {
-          "key": "11011647␟F232670204",
-          "material": "11011647",
-          "batch": "F232670204",
-          "palletCount": 10
-        }
-      ],
-      "totalPallets": 10
     },
     {
       "id": "S3M-01-04_d3185791",
@@ -11444,10 +9254,10 @@
           "key": "11010753␟F252671002",
           "material": "11010753",
           "batch": "F252671002",
-          "palletCount": 12
+          "palletCount": 28
         }
       ],
-      "totalPallets": 12
+      "totalPallets": 28
     },
     {
       "id": "S3M-01-07_d01852d8",
@@ -11470,10 +9280,10 @@
           "key": "11010753␟F062641803",
           "material": "11010753",
           "batch": "F062641803",
-          "palletCount": 5
+          "palletCount": 10
         }
       ],
-      "totalPallets": 5
+      "totalPallets": 10
     },
     {
       "id": "S3M-01-09_ce184fb2",
@@ -11500,19 +9310,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3M-01-11_d2161767",
-      "bin": "S3M-01-11",
-      "lines": [
-        {
-          "key": "11007744␟F232671002",
-          "material": "11007744",
-          "batch": "F232671002",
-          "palletCount": 10
-        }
-      ],
-      "totalPallets": 10
     },
     {
       "id": "S3M-01-12_d31618fa",
@@ -11574,22 +9371,16 @@
           "key": "11010753␟F232671002",
           "material": "11010753",
           "batch": "F232671002",
-          "palletCount": 19
+          "palletCount": 7
         },
         {
           "key": "11010753␟F232671001",
           "material": "11010753",
           "batch": "F232671001",
           "palletCount": 7
-        },
-        {
-          "key": "11010753␟F232671105",
-          "material": "11010753",
-          "batch": "F232671105",
-          "palletCount": 6
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 14
     },
     {
       "id": "S3M-01-17_d0161441",
@@ -11599,10 +9390,10 @@
           "key": "11011895␟47W2680601",
           "material": "11011895",
           "batch": "47W2680601",
-          "palletCount": 8
+          "palletCount": 12
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 12
     },
     {
       "id": "S3M-01-18_c916093c",
@@ -11626,21 +9417,9 @@
           "material": "11010753",
           "batch": "F252670801",
           "palletCount": 3
-        },
-        {
-          "key": "11010753␟F252670803",
-          "material": "11010753",
-          "batch": "F252670803",
-          "palletCount": 2
-        },
-        {
-          "key": "11010753␟F252672902",
-          "material": "11010753",
-          "batch": "F252672902",
-          "palletCount": 2
         }
       ],
-      "totalPallets": 7
+      "totalPallets": 3
     },
     {
       "id": "S3M-01-20_431d850f",
@@ -11692,13 +9471,13 @@
       "bin": "S3M-01-23",
       "lines": [
         {
-          "key": "11011895␟47W2680501",
-          "material": "11011895",
-          "batch": "47W2680501",
-          "palletCount": 2
+          "key": "11012233␟F062680602",
+          "material": "11012233",
+          "batch": "F062680602",
+          "palletCount": 4
         }
       ],
-      "totalPallets": 2
+      "totalPallets": 4
     },
     {
       "id": "S3M-01-24_3f1d7ec3",
@@ -11753,45 +9532,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3M-01-28_4b1d91a7",
-      "bin": "S3M-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3M-01-29_4a1d9014",
-      "bin": "S3M-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3M-01-30_3d1b3d06",
-      "bin": "S3M-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3M-02-01_21548681",
       "bin": "S3M-02-01",
       "lines": [
@@ -11843,19 +9583,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3M-02-04_24548b3a",
-      "bin": "S3M-02-04",
-      "lines": [
-        {
-          "key": "11010753␟F252672902",
-          "material": "11010753",
-          "batch": "F252672902",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
-    },
-    {
       "id": "S3M-02-05_25548ccd",
       "bin": "S3M-02-05",
       "lines": [
@@ -11863,15 +9590,21 @@
           "key": "11010753␟F252672902",
           "material": "11010753",
           "batch": "F252672902",
-          "palletCount": 17
+          "palletCount": 25
         }
       ],
-      "totalPallets": 17
+      "totalPallets": 25
     },
     {
       "id": "S3M-02-06_22548814",
       "bin": "S3M-02-06",
       "lines": [
+        {
+          "key": "11010753␟47W2680305",
+          "material": "11010753",
+          "batch": "47W2680305",
+          "palletCount": 9
+        },
         {
           "key": "11010753␟F232670809",
           "material": "11010753",
@@ -11879,7 +9612,7 @@
           "palletCount": 4
         }
       ],
-      "totalPallets": 4
+      "totalPallets": 13
     },
     {
       "id": "S3M-02-07_235489a7",
@@ -11901,10 +9634,10 @@
           "key": "11010753␟47W2680305",
           "material": "11010753",
           "batch": "47W2680305",
-          "palletCount": 1
+          "palletCount": 3
         }
       ],
-      "totalPallets": 30
+      "totalPallets": 32
     },
     {
       "id": "S3M-02-08_18547856",
@@ -11918,19 +9651,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3M-02-09_195479e9",
-      "bin": "S3M-02-09",
-      "lines": [
-        {
-          "key": "11007744␟F232673009",
-          "material": "11007744",
-          "batch": "F232673009",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 6
     },
     {
       "id": "S3M-02-10_2656ccf7",
@@ -11963,13 +9683,13 @@
       "bin": "S3M-02-12",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11005963␟F232680601",
+          "material": "11005963",
+          "batch": "F232680601",
+          "palletCount": 21
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 21
     },
     {
       "id": "S3M-02-13_2756ce8a",
@@ -12021,26 +9741,26 @@
       "bin": "S3M-02-16",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11012233␟F062680602",
+          "material": "11012233",
+          "batch": "F062680602",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3M-02-17_2356c83e",
       "bin": "S3M-02-17",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11012233␟F062680602",
+          "material": "11012233",
+          "batch": "F062680602",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 32
     },
     {
       "id": "S3M-02-18_1e56c05f",
@@ -12089,10 +9809,10 @@
           "key": "11011478␟47W2680403",
           "material": "11011478",
           "batch": "47W2680403",
-          "palletCount": 21
+          "palletCount": 22
         }
       ],
-      "totalPallets": 21
+      "totalPallets": 22
     },
     {
       "id": "S3M-02-22_164ff802",
@@ -12112,26 +9832,26 @@
       "bin": "S3M-02-23",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟47W2680601",
+          "material": "11010753",
+          "batch": "47W2680601",
+          "palletCount": 24
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 24
     },
     {
       "id": "S3M-02-24_104fee90",
       "bin": "S3M-02-24",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062680801",
+          "material": "11010753",
+          "batch": "F062680801",
+          "palletCount": 16
         }
       ],
-      "totalPallets": 0
+      "totalPallets": 16
     },
     {
       "id": "S3M-02-25_114ff023",
@@ -12141,19 +9861,6 @@
           "key": "11007744␟47W2680304",
           "material": "11007744",
           "batch": "47W2680304",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
-      "id": "S3M-02-26_124ff1b6",
-      "bin": "S3M-02-26",
-      "lines": [
-        {
-          "key": "11007744␟F232671001",
-          "material": "11007744",
-          "batch": "F232671001",
           "palletCount": 8
         }
       ],
@@ -12205,19 +9912,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3M-02-30_1a523ce5",
-      "bin": "S3M-02-30",
-      "lines": [
-        {
-          "key": "11007744␟F232670704",
-          "material": "11007744",
-          "batch": "F232670704",
-          "palletCount": 7
-        }
-      ],
-      "totalPallets": 7
-    },
-    {
       "id": "S3M-02-31_19523b52",
       "bin": "S3M-02-31",
       "lines": [
@@ -12226,9 +9920,15 @@
           "material": "11010753",
           "batch": "F062680301",
           "palletCount": 8
+        },
+        {
+          "key": "11010753␟F252670803",
+          "material": "11010753",
+          "batch": "F252670803",
+          "palletCount": 3
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 11
     },
     {
       "id": "S3M-02-32_185239bf",
@@ -12244,10 +9944,10 @@
           "key": "11010753␟F252670803",
           "material": "11010753",
           "batch": "F252670803",
-          "palletCount": 9
+          "palletCount": 12
         }
       ],
-      "totalPallets": 29
+      "totalPallets": 32
     },
     {
       "id": "S3M-02-33_1752382c",
@@ -12293,32 +9993,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3N-01-03_5a0979ed",
-      "bin": "S3N-01-03",
-      "lines": [
-        {
-          "key": "11010753␟F062641802",
-          "material": "11010753",
-          "batch": "F062641802",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3N-01-04_53096ee8",
-      "bin": "S3N-01-04",
-      "lines": [
-        {
-          "key": "11007744␟F232671002",
-          "material": "11007744",
-          "batch": "F232671002",
-          "palletCount": 27
-        }
-      ],
-      "totalPallets": 27
     },
     {
       "id": "S3N-01-05_5409707b",
@@ -12379,38 +10053,6 @@
       "totalPallets": 13
     },
     {
-      "id": "S3N-01-09_50096a2f",
-      "bin": "S3N-01-09",
-      "lines": [
-        {
-          "key": "11010753␟F062641803",
-          "material": "11010753",
-          "batch": "F062641803",
-          "palletCount": 5
-        },
-        {
-          "key": "11010753␟47W2672905",
-          "material": "11010753",
-          "batch": "47W2672905",
-          "palletCount": 3
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3N-01-10_5d0bbd3d",
-      "bin": "S3N-01-10",
-      "lines": [
-        {
-          "key": "11007744␟47W2680303",
-          "material": "11007744",
-          "batch": "47W2680303",
-          "palletCount": 12
-        }
-      ],
-      "totalPallets": 12
-    },
-    {
       "id": "S3N-01-11_5c0bbbaa",
       "bin": "S3N-01-11",
       "lines": [
@@ -12418,10 +10060,10 @@
           "key": "11007744␟F232671002",
           "material": "11007744",
           "batch": "F232671002",
-          "palletCount": 32
+          "palletCount": 25
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 25
     },
     {
       "id": "S3N-01-12_5b0bba17",
@@ -12454,19 +10096,25 @@
       "bin": "S3N-01-14",
       "lines": [
         {
-          "key": "11010753␟47W2672905",
+          "key": "11010753␟47W2681006",
           "material": "11010753",
-          "batch": "47W2672905",
-          "palletCount": 6
+          "batch": "47W2681006",
+          "palletCount": 8
         },
         {
           "key": "11010753␟47W2680306",
           "material": "11010753",
           "batch": "47W2680306",
           "palletCount": 6
+        },
+        {
+          "key": "11010753␟47W2672905",
+          "material": "11010753",
+          "batch": "47W2672905",
+          "palletCount": 6
         }
       ],
-      "totalPallets": 12
+      "totalPallets": 20
     },
     {
       "id": "S3N-01-15_580bb55e",
@@ -12488,19 +10136,6 @@
       "totalPallets": 32
     },
     {
-      "id": "S3N-01-16_570bb3cb",
-      "bin": "S3N-01-16",
-      "lines": [
-        {
-          "key": "11011647␟F232670809",
-          "material": "11011647",
-          "batch": "F232670809",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
       "id": "S3N-01-17_560bb238",
       "bin": "S3N-01-17",
       "lines": [
@@ -12508,10 +10143,10 @@
           "key": "11010753␟47W2680402",
           "material": "11010753",
           "batch": "47W2680402",
-          "palletCount": 16
+          "palletCount": 22
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 22
     },
     {
       "id": "S3N-01-18_550bb0a5",
@@ -12534,23 +10169,10 @@
           "key": "11010753␟F252672902",
           "material": "11010753",
           "batch": "F252672902",
-          "palletCount": 6
+          "palletCount": 19
         }
       ],
-      "totalPallets": 6
-    },
-    {
-      "id": "S3N-01-20_430dd2e6",
-      "bin": "S3N-01-20",
-      "lines": [
-        {
-          "key": "11012425␟F232671401",
-          "material": "11012425",
-          "batch": "F232671401",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
+      "totalPallets": 19
     },
     {
       "id": "S3N-01-21_440dd479",
@@ -12605,19 +10227,6 @@
       "totalPallets": 22
     },
     {
-      "id": "S3N-01-25_480ddac5",
-      "bin": "S3N-01-25",
-      "lines": [
-        {
-          "key": "11010753␟F322671103",
-          "material": "11010753",
-          "batch": "F322671103",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
       "id": "S3N-01-26_450dd60c",
       "bin": "S3N-01-26",
       "lines": [
@@ -12629,58 +10238,6 @@
         }
       ],
       "totalPallets": 32
-    },
-    {
-      "id": "S3N-01-27_460dd79f",
-      "bin": "S3N-01-27",
-      "lines": [
-        {
-          "key": "11012233␟F062680801",
-          "material": "11012233",
-          "batch": "F062680801",
-          "palletCount": 8
-        }
-      ],
-      "totalPallets": 8
-    },
-    {
-      "id": "S3N-01-28_4b0ddf7e",
-      "bin": "S3N-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3N-01-29_4c0de111",
-      "bin": "S3N-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3N-01-30_c910e46f",
-      "bin": "S3N-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3N-02-01_b5363574",
@@ -12696,32 +10253,6 @@
       "totalPallets": 31
     },
     {
-      "id": "S3N-02-02_b8363a2d",
-      "bin": "S3N-02-02",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3N-02-03_b736389a",
-      "bin": "S3N-02-03",
-      "lines": [
-        {
-          "key": "11010753␟F252671002",
-          "material": "11010753",
-          "batch": "F252671002",
-          "palletCount": 11
-        }
-      ],
-      "totalPallets": 11
-    },
-    {
       "id": "S3N-02-04_b23630bb",
       "bin": "S3N-02-04",
       "lines": [
@@ -12729,10 +10260,10 @@
           "key": "11010753␟F062641802",
           "material": "11010753",
           "batch": "F062641802",
-          "palletCount": 16
+          "palletCount": 24
         }
       ],
-      "totalPallets": 16
+      "totalPallets": 24
     },
     {
       "id": "S3N-02-05_b1362f28",
@@ -12782,28 +10313,28 @@
           "material": "11007744",
           "batch": "F232673008",
           "palletCount": 8
+        },
+        {
+          "key": "11007744␟F232680304",
+          "material": "11007744",
+          "batch": "F232680304",
+          "palletCount": 2
         }
       ],
-      "totalPallets": 8
+      "totalPallets": 10
     },
     {
       "id": "S3N-02-09_ad3628dc",
       "bin": "S3N-02-09",
       "lines": [
         {
-          "key": "11007744␟F232680304",
+          "key": "11007744␟F232673012",
           "material": "11007744",
-          "batch": "F232680304",
-          "palletCount": 2
-        },
-        {
-          "key": "11011647␟F232670201",
-          "material": "11011647",
-          "batch": "F232670201",
-          "palletCount": 2
+          "batch": "F232673012",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 4
+      "totalPallets": 32
     },
     {
       "id": "S3N-02-10_3033257e",
@@ -12832,49 +10363,17 @@
       "totalPallets": 6
     },
     {
-      "id": "S3N-02-12_2e332258",
-      "bin": "S3N-02-12",
-      "lines": [
-        {
-          "key": "11007744␟47W2681005",
-          "material": "11007744",
-          "batch": "47W2681005",
-          "palletCount": 10
-        }
-      ],
-      "totalPallets": 10
-    },
-    {
       "id": "S3N-02-13_2f3323eb",
       "bin": "S3N-02-13",
       "lines": [
         {
-          "key": "11010753␟F232670201",
+          "key": "11010753␟47W2672901",
           "material": "11010753",
-          "batch": "F232670201",
-          "palletCount": 7
+          "batch": "47W2672901",
+          "palletCount": 4
         }
       ],
-      "totalPallets": 7
-    },
-    {
-      "id": "S3N-02-14_34332bca",
-      "bin": "S3N-02-14",
-      "lines": [
-        {
-          "key": "11007744␟47W2680302",
-          "material": "11007744",
-          "batch": "47W2680302",
-          "palletCount": 18
-        },
-        {
-          "key": "11007744␟47W2672904",
-          "material": "11007744",
-          "batch": "47W2672904",
-          "palletCount": 6
-        }
-      ],
-      "totalPallets": 24
+      "totalPallets": 4
     },
     {
       "id": "S3N-02-15_35332d5d",
@@ -12909,49 +10408,30 @@
       "totalPallets": 8
     },
     {
-      "id": "S3N-02-17_33332a37",
-      "bin": "S3N-02-17",
-      "lines": [
-        {
-          "key": "11010753␟F232670203",
-          "material": "11010753",
-          "batch": "F232670203",
-          "palletCount": 29
-        }
-      ],
-      "totalPallets": 29
-    },
-    {
       "id": "S3N-02-18_283318e6",
       "bin": "S3N-02-18",
       "lines": [
         {
-          "key": "11007744␟47W2672904",
+          "key": "11007744␟47W2680403",
           "material": "11007744",
-          "batch": "47W2672904",
-          "palletCount": 6
+          "batch": "47W2680403",
+          "palletCount": 3
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 3
     },
     {
       "id": "S3N-02-19_29331a79",
       "bin": "S3N-02-19",
       "lines": [
         {
-          "key": "11007744␟47W2680302",
+          "key": "11007744␟F232673012",
           "material": "11007744",
-          "batch": "47W2680302",
-          "palletCount": 22
-        },
-        {
-          "key": "11007744␟47W2672904",
-          "material": "11007744",
-          "batch": "47W2672904",
-          "palletCount": 10
+          "batch": "F232673012",
+          "palletCount": 8
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 8
     },
     {
       "id": "S3N-02-20_2a30dd75",
@@ -13049,26 +10529,13 @@
       "bin": "S3N-02-27",
       "lines": [
         {
-          "key": "11010753␟47W2672801",
+          "key": "11010753␟47W2672301",
           "material": "11010753",
-          "batch": "47W2672801",
-          "palletCount": 4
+          "batch": "47W2672301",
+          "palletCount": 1
         }
       ],
-      "totalPallets": 4
-    },
-    {
-      "id": "S3N-02-28_3230ea0d",
-      "bin": "S3N-02-28",
-      "lines": [
-        {
-          "key": "11010753␟47W2672003",
-          "material": "11010753",
-          "batch": "47W2672003",
-          "palletCount": 30
-        }
-      ],
-      "totalPallets": 30
+      "totalPallets": 1
     },
     {
       "id": "S3N-02-29_3130e87a",
@@ -13110,166 +10577,17 @@
       "totalPallets": 18
     },
     {
-      "id": "S3N-02-32_262e9892",
-      "bin": "S3N-02-32",
-      "lines": [
-        {
-          "key": "11010753␟47W2672003",
-          "material": "11010753",
-          "batch": "47W2672003",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
       "id": "S3N-02-33_272e9a25",
       "bin": "S3N-02-33",
       "lines": [
         {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
+          "key": "11010753␟F062681501",
+          "material": "11010753",
+          "batch": "F062681501",
+          "palletCount": 20
         }
       ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-01_295a4a6c",
-      "bin": "S3O-01-01",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-02_2c5a4f25",
-      "bin": "S3O-01-02",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-03_2b5a4d92",
-      "bin": "S3O-01-03",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-04_265a45b3",
-      "bin": "S3O-01-04",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-05_255a4420",
-      "bin": "S3O-01-05",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-06_285a48d9",
-      "bin": "S3O-01-06",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-07_275a4746",
-      "bin": "S3O-01-07",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-08_325a5897",
-      "bin": "S3O-01-08",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-09_315a5704",
-      "bin": "S3O-01-09",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-10_245803f6",
-      "bin": "S3O-01-10",
-      "lines": [
-        {
-          "key": "11005963␟F232672902",
-          "material": "11005963",
-          "batch": "F232672902",
-          "palletCount": 4
-        },
-        {
-          "key": "11011895␟47W2672905",
-          "material": "11011895",
-          "batch": "47W2672905",
-          "palletCount": 2
-        }
-      ],
-      "totalPallets": 6
+      "totalPallets": 20
     },
     {
       "id": "S3O-01-11_25580589",
@@ -13296,19 +10614,6 @@
         }
       ],
       "totalPallets": 8
-    },
-    {
-      "id": "S3O-01-13_23580263",
-      "bin": "S3O-01-13",
-      "lines": [
-        {
-          "key": "11007744␟F232670704",
-          "material": "11007744",
-          "batch": "F232670704",
-          "palletCount": 31
-        }
-      ],
-      "totalPallets": 31
     },
     {
       "id": "S3O-01-14_28580a42",
@@ -13382,19 +10687,6 @@
       "totalPallets": 25
     },
     {
-      "id": "S3O-01-19_2d581221",
-      "bin": "S3O-01-19",
-      "lines": [
-        {
-          "key": "11010753␟F252672902",
-          "material": "11010753",
-          "batch": "F252672902",
-          "palletCount": 4
-        }
-      ],
-      "totalPallets": 4
-    },
-    {
       "id": "S3O-01-20_be5524cd",
       "bin": "S3O-01-20",
       "lines": [
@@ -13402,36 +10694,10 @@
           "key": "11012425␟47W2681102",
           "material": "11012425",
           "batch": "47W2681102",
-          "palletCount": 22
+          "palletCount": 8
         }
       ],
-      "totalPallets": 22
-    },
-    {
-      "id": "S3O-01-21_bd55233a",
-      "bin": "S3O-01-21",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-22_bc5521a7",
-      "bin": "S3O-01-22",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
+      "totalPallets": 8
     },
     {
       "id": "S3O-01-23_bb552014",
@@ -13464,12 +10730,6 @@
       "bin": "S3O-01-25",
       "lines": [
         {
-          "key": "11007744␟F232671001",
-          "material": "11007744",
-          "batch": "F232671001",
-          "palletCount": 18
-        },
-        {
           "key": "11007744␟F232671002",
           "material": "11007744",
           "batch": "F232671002",
@@ -13482,7 +10742,7 @@
           "palletCount": 3
         }
       ],
-      "totalPallets": 32
+      "totalPallets": 14
     },
     {
       "id": "S3O-01-26_b8551b5b",
@@ -13509,45 +10769,6 @@
         }
       ],
       "totalPallets": 8
-    },
-    {
-      "id": "S3O-01-28_b6551835",
-      "bin": "S3O-01-28",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-29_b55516a2",
-      "bin": "S3O-01-29",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
-      "id": "S3O-01-30_b852dcc4",
-      "bin": "S3O-01-30",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3O-02-01_2f07d53f",
@@ -13583,10 +10804,10 @@
           "key": "11010753␟47W2682601",
           "material": "11010753",
           "batch": "47W2682601",
-          "palletCount": 23
+          "palletCount": 24
         }
       ],
-      "totalPallets": 23
+      "totalPallets": 24
     },
     {
       "id": "S3O-02-04_2a07cd60",
@@ -13606,13 +10827,13 @@
       "bin": "S3O-02-05",
       "lines": [
         {
-          "key": "11007744␟F232671402",
+          "key": "11007744␟F232673011",
           "material": "11007744",
-          "batch": "F232671402",
-          "palletCount": 3
+          "batch": "F232673011",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 3
+      "totalPallets": 32
     },
     {
       "id": "S3O-02-06_2c07d086",
@@ -13622,29 +10843,10 @@
           "key": "11007744␟47W2681005",
           "material": "11007744",
           "batch": "47W2681005",
-          "palletCount": 32
-        }
-      ],
-      "totalPallets": 32
-    },
-    {
-      "id": "S3O-02-07_2d07d219",
-      "bin": "S3O-02-07",
-      "lines": [
-        {
-          "key": "11010753␟47W2672003",
-          "material": "11010753",
-          "batch": "47W2672003",
           "palletCount": 18
-        },
-        {
-          "key": "11010753␟47W2682601",
-          "material": "11010753",
-          "batch": "47W2682601",
-          "palletCount": 1
         }
       ],
-      "totalPallets": 19
+      "totalPallets": 18
     },
     {
       "id": "S3O-02-08_3607e044",
@@ -13686,19 +10888,6 @@
       "totalPallets": 16
     },
     {
-      "id": "S3O-02-11_330a1a22",
-      "bin": "S3O-02-11",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
-    },
-    {
       "id": "S3O-02-12_320a188f",
       "bin": "S3O-02-12",
       "lines": [
@@ -13710,19 +10899,6 @@
         }
       ],
       "totalPallets": 8
-    },
-    {
-      "id": "S3O-02-13_310a16fc",
-      "bin": "S3O-02-13",
-      "lines": [
-        {
-          "key": "<<empty>>␟",
-          "material": "<<empty>>",
-          "batch": "",
-          "palletCount": 0
-        }
-      ],
-      "totalPallets": 0
     },
     {
       "id": "S3O-02-14_300a1569",
@@ -13800,21 +10976,15 @@
       "bin": "S3O-02-19",
       "lines": [
         {
-          "key": "11010753␟F232671001",
-          "material": "11010753",
-          "batch": "F232671001",
-          "palletCount": 4
-        },
-        {
           "key": "11010753␟F232671002",
           "material": "11010753",
           "batch": "F232671002",
           "palletCount": 4
         },
         {
-          "key": "11010753␟F232671104",
+          "key": "11010753␟F232671001",
           "material": "11010753",
-          "batch": "F232671104",
+          "batch": "F232671001",
           "palletCount": 4
         },
         {
@@ -13824,39 +10994,33 @@
           "palletCount": 2
         }
       ],
-      "totalPallets": 14
+      "totalPallets": 10
     },
     {
       "id": "S3O-02-20_3a0c63be",
       "bin": "S3O-02-20",
       "lines": [
         {
-          "key": "11010753␟47W2672001",
-          "material": "11010753",
-          "batch": "47W2672001",
-          "palletCount": 5
-        },
-        {
-          "key": "11010753␟47W2672301",
-          "material": "11010753",
-          "batch": "47W2672301",
-          "palletCount": 1
+          "key": "11007744␟F232673004",
+          "material": "11007744",
+          "batch": "F232673004",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 6
+      "totalPallets": 32
     },
     {
       "id": "S3O-02-21_3b0c6551",
       "bin": "S3O-02-21",
       "lines": [
         {
-          "key": "11010753␟47W2672908",
-          "material": "11010753",
-          "batch": "47W2672908",
-          "palletCount": 4
+          "key": "11011478␟47W2681006",
+          "material": "11011478",
+          "batch": "47W2681006",
+          "palletCount": 32
         }
       ],
-      "totalPallets": 4
+      "totalPallets": 32
     },
     {
       "id": "S3O-02-22_380c6098",
@@ -13885,10 +11049,10 @@
           "key": "11012233␟F062681502",
           "material": "11012233",
           "batch": "F062681502",
-          "palletCount": 7
+          "palletCount": 12
         }
       ],
-      "totalPallets": 7
+      "totalPallets": 12
     },
     {
       "id": "S3O-02-24_3e0c6a0a",
@@ -13911,10 +11075,10 @@
           "key": "11007744␟F232671402",
           "material": "11007744",
           "batch": "F232671402",
-          "palletCount": 24
+          "palletCount": 8
         }
       ],
-      "totalPallets": 24
+      "totalPallets": 8
     },
     {
       "id": "S3O-02-26_3c0c66e4",
@@ -13973,14 +11137,52 @@
       "bin": "S3O-02-30",
       "lines": [
         {
-          "key": "11007744␟47W2680403",
-          "material": "11007744",
-          "batch": "47W2680403",
-          "palletCount": 3
+          "key": "11010753␟F062680602",
+          "material": "11010753",
+          "batch": "F062680602",
+          "palletCount": 12
         }
       ],
-      "totalPallets": 3
+      "totalPallets": 12
+    },
+    {
+      "id": "S3O-02-31_bf0f73b4",
+      "bin": "S3O-02-31",
+      "lines": [
+        {
+          "key": "11010753␟F232671002",
+          "material": "11010753",
+          "batch": "F232671002",
+          "palletCount": 17
+        },
+        {
+          "key": "11010753␟F232671001",
+          "material": "11010753",
+          "batch": "F232671001",
+          "palletCount": 11
+        }
+      ],
+      "totalPallets": 28
+    },
+    {
+      "id": "S3O-02-32_c20f786d",
+      "bin": "S3O-02-32",
+      "lines": [
+        {
+          "key": "11007744␟F232673003",
+          "material": "11007744",
+          "batch": "F232673003",
+          "palletCount": 23
+        },
+        {
+          "key": "11007744␟F232673002",
+          "material": "11007744",
+          "batch": "F232673002",
+          "palletCount": 2
+        }
+      ],
+      "totalPallets": 25
     }
   ],
-  "updatedAt": "2026-09-22T18:59:53.559Z"
+  "updatedAt": "2026-09-22T20:04:22.163Z"
 }
