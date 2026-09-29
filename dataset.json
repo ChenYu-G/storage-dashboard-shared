@@ -8486,10 +8486,10 @@
           "key": "11010753␟F322680303",
           "material": "11010753",
           "batch": "F322680303",
-          "palletCount": 26
+          "palletCount": 28
         }
       ],
-      "totalPallets": 26
+      "totalPallets": 28
     },
     {
       "id": "S3L-01-05_67926c01",
@@ -11184,5 +11184,5 @@
       "totalPallets": 25
     }
   ],
-  "updatedAt": "2026-09-29T01:38:53.528Z"
+  "updatedAt": "2026-09-29T04:06:28.455Z"
 }
